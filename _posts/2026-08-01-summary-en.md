@@ -10,79 +10,56 @@ lang: en
 ---
 
 **Technology News**
-1. [OpenAI&\#x27;s Astra AI Solves Ten Long-Standing Math Problems, Claims Low Token Cost](#item-tech-news-1) ⭐️ 9.0/10
-2. [Microsoft Confirms Copilot AI &\#x27;Super App&\#x27; Launch This Year](#item-tech-news-2) ⭐️ 9.0/10
-3. [Updated Book: The Art of 64-bit Assembly v2](#item-tech-news-3) ⭐️ 8.0/10
-4. [RipGrep musl binaries occasionally segfault during very-large searches](#item-tech-news-4) ⭐️ 8.0/10
-5. [DeepSeek-V4-Flash-0731: New 304B AI Model Excels in Agentic Capabilities and Cost-Effectiveness](#item-tech-news-5) ⭐️ 8.0/10
-6. [Research Explores How Go AI KataGo Learns Board Symmetries Internally](#item-tech-news-6) ⭐️ 8.0/10
-7. [VLMs&\#x27; Radiology Report Benchmarks Mask Clinical Term Erasure and Bias](#item-tech-news-7) ⭐️ 8.0/10
-8. [Major Labels Propose Excluding AI-Generated Songs from Music Charts](#item-tech-news-8) ⭐️ 8.0/10
-9. [Google to Exempt Sanctioned Nations from Android Developer Verification](#item-tech-news-9) ⭐️ 8.0/10
+1. [OpenAI&\#x27;s Astra AI Solves Ten Long-Unsolved Math and Computer Science Problems](#item-tech-news-1) ⭐️ 9.0/10
+2. [The Art of 64-bit Assembly Book Receives Major Update](#item-tech-news-2) ⭐️ 8.0/10
+3. [RipGrep musl Binaries Segfault During Large Searches](#item-tech-news-3) ⭐️ 8.0/10
+4. [DeepSeek-V4-Flash-0731: A 304B Parameter Model with Enhanced Agentic Capabilities](#item-tech-news-4) ⭐️ 8.0/10
+5. [VLMs Score Well on Benchmarks Despite Erasing Clinical Terms and Introducing Bias](#item-tech-news-5) ⭐️ 8.0/10
+6. [Major Labels Propose Excluding AI-Generated Songs from Music Charts](#item-tech-news-6) ⭐️ 8.0/10
+7. [Qwen Releases Audio-3.0-ASR-Flash with Over 95% Medical Term Recognition](#item-tech-news-7) ⭐️ 8.0/10
+8. [China Promotes Open-Weight AI Models to Global South at UN Summit, Contrasting US Approach](#item-tech-news-8) ⭐️ 8.0/10
+9. [Microsoft Confirms Copilot &\#x27;Super App&\#x27; Launch This Year](#item-tech-news-9) ⭐️ 8.0/10
 
 **Financial News**
-1. [美财长“待办清单”被拍到：拟购买 50 亿至 100 亿美元日元](#item-finance-news-1) ⭐️ 9.0/10
+1. [US Treasury Secretary&\#x27;s Memo Shows Potential Yen Purchase Plan](#item-finance-news-1) ⭐️ 9.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [OpenAI&\#x27;s Astra AI Solves Ten Long-Standing Math Problems, Claims Low Token Cost](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything) ⭐️ 9.0/10
+### [OpenAI&\#x27;s Astra AI Solves Ten Long-Unsolved Math and Computer Science Problems](https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything) ⭐️ 9.0/10
 
-OpenAI announced that an internal version of Astra, its next major AI model, has reportedly solved ten mathematical problems in mathematics and theoretical computer science that had seen no significant progress for at least a decade. The company claims the token cost for generating arguments for each solution was less than $2,000, based on GPT-5.6 Sol token prices. OpenAI has provided Lean 4 formalizations of these results in a public repository, along with a paper describing the solutions and an LLM-generated PDF detailing the model&\#x27;s reasoning traces. This achievement suggests a significant advancement in AI&\#x27;s capability to tackle complex, previously intractable mathematical challenges.
+OpenAI&\#x27;s internal next-generation AI model, Astra, has reportedly solved ten mathematical and theoretical computer science problems that had seen no significant progress for at least a decade, including challenges in high-dimensional sphere packing and arithmetic circuit lower bounds. The model generated these solutions at a reported token cost of less than $2,000 per problem, with results formally verified in Lean 4 and detailed in public papers and a GitHub repository. This achievement signals a major advance in AI&\#x27;s capabilities for fundamental research, prompting discussions about AI&\#x27;s role in &quot;big mathematics&quot; and its potential to accelerate scientific discovery.
 
 rss · Simon Willison · Aug 1, 20:34
 
-**「Context」** The event evokes comparisons to IBM&\#x27;s Deep Blue, an AI that famously defeated world chess champion Garry Kasparov in 1997, marking a significant milestone in artificial intelligence. This development aligns with mathematician Terence Tao&\#x27;s concept of &quot;big mathematics,&quot; where AI assists humans in tackling complex problems by handling the technical aspects, fostering large-scale collaborations between humans and machines.
+**「Background」** For decades, certain mathematical and theoretical computer science problems have resisted human efforts, often requiring deep intuition and complex logical steps. The development of advanced AI models, particularly large language models \(LLMs\), has opened new avenues for automated reasoning and problem-solving, moving beyond traditional symbolic AI to generate novel insights.
 
-**「Impact」** This development signals a potential paradigm shift towards &quot;big mathematics,&quot; where AI models like Astra could become integral collaborators, handling the &quot;technical grunt work&quot; and enabling large-scale, decentralized human-machine research in complex mathematical tasks.
+**「Impact」** This breakthrough demonstrates AI&\#x27;s potential to act as a significant research collaborator, enabling the resolution of previously intractable problems and fundamentally shifting the landscape of scientific discovery in mathematics and theoretical computer science. It suggests a future where AI handles complex technical grunt work, allowing human researchers to focus on creative aspects and explore &quot;big mathematics&quot; through large-scale collaborations.
 
 **Tags**: `#Artificial Intelligence`, `#Machine Learning`, `#Theoretical Computer Science`, `#Mathematics`, `#AI Research`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [Microsoft Confirms Copilot AI &\#x27;Super App&\#x27; Launch This Year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed) ⭐️ 9.0/10
+### [The Art of 64-bit Assembly Book Receives Major Update](https://nostarch.com/art-64-bit-assembly-v2) ⭐️ 8.0/10
 
-Microsoft CEO Satya Nadella confirmed that the company will launch an AI &\#x27;super app&\#x27; this year, integrating Copilot&\#x27;s chat, programming, and agentic capabilities for both consumer and business use. Nadella stated that Copilot is rapidly evolving from a chat tool to Cowork and then to Autopilots, with these experiences, including code functionalities, set to merge into a single super app this quarter. This move follows previous reports by Fortune about Microsoft&\#x27;s plans to combine Copilot chatbot, GitHub Copilot, Copilot Cowork, and Autopilot systems. The announcement comes as Microsoft&\#x27;s revenue grew to $90 billion last quarter, primarily driven by its AI and cloud businesses.
-
-telegram · zaihuapd · Aug 1, 13:18
-
-**「About Super Apps and Microsoft Copilot」** A &quot;super app&quot; is a single application that integrates multiple services, often including chat, social media, and various utilities, to create a comprehensive digital ecosystem. Microsoft&\#x27;s Copilot &quot;super app&quot; aims to consolidate its diverse AI functionalities, such as conversational AI, code generation via GitHub Copilot, and agentic workflow systems like Copilot Cowork and Autopilot, into one unified platform. This strategy seeks to provide a seamless and integrated AI experience across consumer and commercial use cases.
-
-**「Impact」** The consolidation of Copilot&\#x27;s diverse AI capabilities into a single &\#x27;super app&\#x27; will directly affect over 30 million paid Copilot users by providing a unified experience across chat, programming, and agentic functionalities.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://theoutpost.ai/news-story/microsoft-copilot-super-app-confirmed-ai-assistant-merges-chat-coding-and-agents-this-year-29171/">Microsoft Copilot Super App Confirmed for 2025</a></li>
-<li><a href="https://windowsforum.com/windows-news.4/microsoft-copilot-super-app-2026-one-hub-for-chat-github-copilot-agents.421314/">Microsoft Copilot Super App (2026): One Hub for... | Windows Forum</a></li>
-<li><a href="https://overcentral.com/en/copilot-super-app/">Microsoft Confirms Copilot Super App Launch This Year</a></li>
-<li><a href="https://www.sourcetrail.com/software/microsoft-confirms-copilot-super-app-launching-this-year-heres-what-we-know/">Microsoft Confirms Copilot Super App Launching This Year</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Artificial Intelligence`, `#Software Engineering`, `#Developer Tools`, `#Microsoft`, `#Product Strategy`
-
----
-
-<a id="item-tech-news-3"></a>
-### [Updated Book: The Art of 64-bit Assembly v2](https://nostarch.com/art-64-bit-assembly-v2) ⭐️ 8.0/10
-
-A comprehensive, nearly 800-page book titled &quot;The Art of 64-bit Assembly, v2&quot; has been released, offering deep technical knowledge essential for low-level software engineering and understanding computer systems. This updated edition focuses on 64-bit assembly language, providing foundational insight into hardware interaction, performance optimization, and reverse engineering. It serves as a valuable resource for those seeking to master the intricacies of assembly programming.
+No Starch Press has released an updated, nearly 800-page edition of &quot;The Art of 64-bit Assembly,&quot; offering a comprehensive resource for understanding low-level computing. This extensive book provides a deep dive into 64-bit assembly language, covering foundational topics critical for computer systems, performance optimization, and security. It serves as a valuable, updated guide for software engineers and enthusiasts looking to master the intricacies of hardware interaction.
 
 hackernews · 0x54MUR41 · Aug 1, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49134599)
 
-**「Background」** Assembly language is a low-level programming language that provides direct control over a computer&\#x27;s hardware, using mnemonics to represent machine code instructions. The &quot;64-bit&quot; aspect refers to modern processor architectures that handle data in 64-bit chunks, enabling larger memory addressing and improved performance compared to 32-bit systems. Books like &quot;The Art of 64-bit Assembly&quot; teach programming for these architectures, often focusing on specific assemblers like MASM for x86 processors.
+**「Background」** Assembly language is a low-level programming language that directly interacts with a computer&\#x27;s hardware, providing fine-grained control over system operations. &quot;The Art of 64-bit Assembly&quot; is a book by Randall Hyde, serving as the 64-bit iteration of his well-known &quot;The Art of Assembly Language&quot; series. This book teaches assembly programming by demonstrating how to replicate high-level language constructs using MASM on Windows, bridging the gap between high-level concepts and their low-level implementation.
 
-**「Impact」** This updated resource provides software engineers and computer systems enthusiasts with a detailed guide to 64-bit assembly, crucial for advanced low-level programming and system analysis.
+**「Impact」** This updated 800-page resource directly benefits software engineers and low-level programmers by providing an in-depth, current guide to 64-bit assembly, enhancing their ability to understand and optimize computer systems.
 
-**「Community Discussion」** Community discussion largely centered on criticism of the book&\#x27;s introductory marketing copy, particularly its mention of AI, and the author&\#x27;s choice of MASM for Windows x64 assembly, with some users noting the lack of a Linux equivalent. Despite these points, many affirmed the continued relevance of learning assembly language today and expressed interest in the book&\#x27;s content.
+**「Community Discussion」** The community discussion highlights a mixed reception, with some users expressing disappointment over the book&\#x27;s marketing copy, particularly its initial mention of AI, and the choice of tools like MASM over GNU Assembler. Despite these criticisms, many commenters acknowledge the enduring value of learning assembly language and appreciate the author&\#x27;s continued dedication to updating this long-standing educational resource.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nostarch.com/catalog/programming">Programming | No Starch Press</a></li>
+<li><a href="https://www.amazon.com/Art-64-Bit-Assembly-Language/dp/1718501080">The Art of 64 - Bit Assembly , Volume 1: x86-64 Machine Organization...</a></li>
+<li><a href="https://nostarch.com/art-64-bit-assembly-v2">The Art of 64 - Bit Assembly , Volume 2 | No Starch Press</a></li>
+<li><a href="https://www.abebooks.com/9781718501089/Art-64-Bit-Assembly-Volume-x86-64-1718501080/plp">The Art of 64 - Bit Assembly , Volume 1: x86-64 Machine... - AbeBooks</a></li>
 
 </ul>
 </details>
@@ -91,145 +68,174 @@ hackernews · 0x54MUR41 · Aug 1, 14:09 · [Discussion](https://news.ycombinator
 
 ---
 
-<a id="item-tech-news-4"></a>
-### [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) ⭐️ 8.0/10
+<a id="item-tech-news-3"></a>
+### [RipGrep musl Binaries Segfault During Large Searches](https://github.com/BurntSushi/ripgrep/issues/3494) ⭐️ 8.0/10
 
-RipGrep&\#x27;s \`musl\` binaries have been observed to occasionally segfault during very large search operations. This critical bug is attributed to fundamental performance limitations of \`musl\`&\#x27;s default \`mallocng\` memory allocator, particularly its poor handling of contention in multithreaded, high-contention scenarios. The issue can cause applications to become &quot;malloc&quot; bound rather than I/O bound, impacting overall performance and stability.
+A bug report has surfaced detailing occasional segfaults in RipGrep&\#x27;s musl-linked binaries when performing very large searches. This stability issue has prompted a technical discussion focusing on the limitations of musl&\#x27;s default memory allocator, \`mallocng\`, particularly concerning its performance under multithreaded contention. The conversation also touches upon potential kernel patches and broader performance considerations for high-performance computing environments.
 
 hackernews · throwaway2037 · Aug 1, 12:34 · [Discussion](https://news.ycombinator.com/item?id=49133889)
 
-**「Background」** Ripgrep is a popular, fast, and recursive grep-like utility for searching filesystems. It can be compiled against different C standard libraries, including \`musl\`, a lightweight alternative to \`glibc\` often chosen for static linking and smaller binary sizes. The \`musl\` C library uses \`mallocng\` as its default memory allocator, which has been noted to struggle with contention in multithreaded scenarios.
+**「Background」** RipGrep is a command-line tool designed for recursively searching directories for regex patterns, often used as a faster alternative to tools like \`grep\` due to its performance optimizations. musl is a lightweight C standard library for Linux-based operating systems, known for its focus on simplicity, efficiency, and standards compliance, often used in embedded systems and environments where a smaller footprint is desired.
 
-**「Impact」** Users running \`ripgrep\` with \`musl\` binaries, especially on large datasets or high-performance computing \(HPC\) clusters, may experience application instability due to segfaults or significant performance degradation from memory allocation bottlenecks. This highlights a broader challenge for multithreaded applications built with \`musl\` that rely on its default allocator.
+**「Impact」** Users running RipGrep&\#x27;s musl binaries, especially in multithreaded or high-performance computing \(HPC\) environments, may experience application instability and significant performance degradation due to the allocator&\#x27;s limitations and excessive I/O.
 
-**「Community Discussion」** Community members largely agree that \`musl\`&\#x27;s \`mallocng\` allocator struggles with multithreaded contention, leading to performance issues and segfaults in applications like \`ripgrep\`. Concerns were raised about \`ripgrep\`&\#x27;s high small I/O generation on HPC clusters, potentially straining filesystem metadata, and external analyses of the bug were shared.
+**「Community Discussion」** Community members discussed \`mallocng\`&\#x27;s limitations in musl, noting its poor performance in multithreaded scenarios and suggesting alternative allocators for high-speed applications. Concerns were raised about RipGrep&\#x27;s suitability for HPC clusters due to its high small I/O generation, which can strain cluster filesystems. The discussion also referenced a related kernel patch and an AI-generated analysis of the bug.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/BurntSushi/ripgrep/issues/3494">x86_64-unknown-linux-musl binaries occasionally segfault during very-large searches · Issue #3494 · BurntSushi/ripgrep</a></li>
-<li><a href="https://news.ycombinator.com/item?id=49133889">RipGrep musl binaries occasionally segfault during very-large searches | Hacker News</a></li>
+<li><a href="https://github.com/burntsushi/ripgrep">GitHub - BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore · GitHub</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Musl_libc">Musl libc</a></li>
+<li><a href="https://www.musl-libc.org/intro.html">musl - Introduction</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Software Engineering`, `#Systems Programming`, `#Open Source`, `#Performance Optimization`, `#Debugging`
+**Tags**: `#Software Engineering`, `#System Performance`, `#C Libraries`, `#Debugging`, `#Open Source`
+
+---
+
+<a id="item-tech-news-4"></a>
+### [DeepSeek-V4-Flash-0731: A 304B Parameter Model with Enhanced Agentic Capabilities](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) ⭐️ 8.0/10
+
+DeepSeek has released DeepSeek-V4-Flash-0731, a 304 billion parameter model \(167GB\) that claims substantially enhanced agentic capabilities. Artificial Analysis ranks this model ahead of the 428B MiniMax M3, highlighting its strong performance relative to its size. With pricing at $0.14 per million input tokens and $0.27 per million output tokens, it is positioned as potentially the best value-per-intelligence model available. The author observed that increasing the reasoning level to &quot;high&quot; via OpenRouter significantly improved image generation quality, demonstrating its conditional performance.
+
+rss · Simon Willison · Jul 31, 23:59
+
+**「Background」** DeepSeek is a Chinese artificial intelligence company that develops large language models \(LLMs\), which are AI models trained on vast amounts of text data to understand and generate human-like language. The company is known for its open-weight, cost-effective, and high-performing models. &quot;Agentic capabilities&quot; in LLMs refer to their ability to plan, reason, and execute complex, multi-step tasks autonomously. Artificial Analysis is an independent platform that compares and ranks the performance of various AI models across metrics such as intelligence, price, and speed.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek_%28Company%29">DeepSeek (Company)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek - Wikipedia</a></li>
+<li><a href="https://artificialanalysis.ai/leaderboards/models">LLM Leaderboard - Comparison of AI models from OpenAI, Anthropic, Google, SpaceXAI &amp; others</a></li>
+<li><a href="https://artificialanalysis.ai/models">Comparison of AI Models across Intelligence, Performance, and Price</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Machine Learning`, `#Large Language Models`, `#AI Models`, `#Cost-Efficiency`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [DeepSeek-V4-Flash-0731: New 304B AI Model Excels in Agentic Capabilities and Cost-Effectiveness](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything) ⭐️ 8.0/10
+### [VLMs Score Well on Benchmarks Despite Erasing Clinical Terms and Introducing Bias](https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/) ⭐️ 8.0/10
 
-DeepSeek has released DeepSeek-V4-Flash-0731, a new 304 billion parameter AI model \(167GB\) featuring &quot;substantially enhanced agentic capabilities.&quot; Despite its size, Artificial Analysis ranks its intelligence ahead of larger models like MiniMax M3 \(428B\), positioning it as a strong performer. With pricing at $0.14 per million input tokens and $0.27 per million output tokens, it is highlighted as potentially the most cost-effective model per intelligence currently available. Initial testing showed varied results, with a &quot;disappointing&quot; output at the default reasoning level, but &quot;much better&quot; performance when the reasoning level was set to &quot;high.&quot;
+A new paper highlights a critical flaw in Vision-Language Models \(VLMs\) used for radiology report generation \(RRG\) on chest x-rays, where models can achieve high scores on standard benchmarks despite silently erasing meaningful clinical terms and introducing bias. Current evaluation metrics are shown to reward repetitive templates and reports lacking clinical utility, even when clinically meaningful but rare words are omitted. To address this, the paper introduces a framework designed to accurately measure the erasure of terms and the introduction of biased terms in VLM-generated reports. The research is detailed in the paper &quot;Measuring What VLMs Don&\#x27;t Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation&quot; \(arXiv:2603.01625\).
 
-rss · Simon Willison · Jul 31, 23:59
+reddit · r/MachineLearning · /u/ade17\_in · Aug 1, 09:27
 
-**「Background」** DeepSeek is a Chinese artificial intelligence company, founded in 2023, that specializes in developing large language models \(LLMs\). LLMs are AI models trained on vast amounts of text data to understand and generate human-like text. &quot;Agentic capabilities&quot; refer to an AI model&\#x27;s ability to plan, reason, and execute complex tasks autonomously, often by breaking them down into sub-tasks and interacting with tools or environments.
+**「Background」** Vision-Language Models \(VLMs\) are AI systems that integrate visual understanding with natural language processing, enabling them to generate textual descriptions or reports from images. Radiology Report Generation \(RRG\) is a specific application where VLMs are trained to produce diagnostic reports based on medical images such as X-rays. This technology aims to assist radiologists by automating or streamlining the report creation process.
 
-**「Impact」** This model&\#x27;s combination of enhanced agentic capabilities, strong performance, and competitive pricing offers AI practitioners a compelling new option for developing advanced AI systems and agents.
+**「Impact」** Clinicians relying on VLM-generated radiology reports could receive documents that appear complete but silently lack critical diagnostic information or contain misleading biases, potentially affecting patient care.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/DeepSeek">DeepSeek</a></li>
-<li><a href="https://grokipedia.com/page/deepseek">DeepSeek</a></li>
-<li><a href="https://www.deepseek.com/en/">DeepSeek</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Artificial Intelligence`, `#Machine Learning`, `#Large Language Models`, `#AI Agents`, `#Deep Learning`
+**Tags**: `#Machine Learning`, `#Artificial Intelligence`, `#Medical AI`, `#Evaluation Metrics`, `#Vision-Language Models`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Research Explores How Go AI KataGo Learns Board Symmetries Internally](https://www.reddit.com/r/MachineLearning/comments/1vcrki2/how_symmetric_are_the_insides_of_a_go_network_r/) ⭐️ 8.0/10
+### [Major Labels Propose Excluding AI-Generated Songs from Music Charts](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts) ⭐️ 8.0/10
 
-A new research study by /u/icosaplex investigates how superhuman Go-playing neural networks, specifically KataGo, internally represent board symmetries. Despite Go&\#x27;s rules being fully symmetric under rotation and reflection, KataGo&\#x27;s models only use stochastic 8-fold data augmentation during training, without explicit architectural enforcement of symmetry. The study explores whether these networks learn orientation-independent concepts or memorize separate representations for each orientation. This work contributes to AI interpretability by examining the internal workings of neural networks, with one finding noted as unexpected.
+Universal Music, Sony Music, and Warner Music have jointly proposed new rules to exclude AI-generated songs from global official music charts unless they are &quot;substantially human-created.&quot; This proposal extends beyond simple labeling, requiring that AI services used are legally authorized, model training data is copyrighted, and that the songs do not involve chart manipulation, while also complying with relevant copyright and personality rights laws. The IFPI supports this initiative, which aims to address concerns regarding copyright, legal authorization, and chart integrity in the age of AI. However, no chart organizations have yet committed to adopting the rules, and the definition of &quot;substantially human-created&quot; remains ambiguous.
 
-reddit · r/MachineLearning · /u/icosaplex · Aug 1, 16:18
+telegram · zaihuapd · Aug 1, 02:53
 
-**「Background」** The game of Go has rules that are perfectly symmetric under rotation and reflection, meaning board states remain valid regardless of orientation. Neural networks, often used for AI, can be trained with data augmentation, a technique that artificially expands the training dataset by creating modified versions of existing data, such as rotated or reflected images, to improve generalization.
+**「Background」** Universal Music Group, Sony Music Entertainment, and Warner Music Group are collectively known as the &quot;Big Three&quot; record labels, dominating the global music industry. IFPI \(International Federation of the Phonographic Industry\) is an organization that promotes the interests of the international recording industry worldwide, while RIAA \(Recording Industry Association of America\) is a similar organization in the United States. Both IFPI and RIAA have previously proposed voluntary labeling systems for AI-generated music.
 
-**「Impact」** This study provides valuable insights into how neural networks implicitly learn and generalize fundamental properties like symmetry, which is crucial for advancing AI interpretability and designing more robust machine learning models.
+**「Impact」** The International Federation of the Phonographic Industry \(IFPI\) will adopt these proposed rules for its own official charts, establishing a precedent for how AI-generated music is treated in global rankings.
 
-**Tags**: `#Machine Learning`, `#AI Interpretability`, `#Neural Networks`, `#Go AI`, `#Symmetry Learning`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Universal_Music_Group">Universal Music Group - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Warner_Music_Group">Warner Music Group - Wikipedia</a></li>
+<li><a href="https://vision3deep.com/indie-vs-major-labels/the-big-3-major-record-labels-that-dominate-the-global-music-industry/">The Big 3: Major Record Labels That Dominate the Global Music ...</a></li>
+<li><a href="https://www.riaa.com/ifpi-worlds-largest-music-stream-ripping-site-faces-international-legal-action/">IFPI : world&#x27;s largest music stream ripping site faces... - RIAA</a></li>
+<li><a href="https://otontechnology.com/music-industry-ai-generated-content-labels/">IFPI and RIAA Launch Voluntary AI Music Labels</a></li>
+<li><a href="https://www.aixploria.com/en/ai-radar/ai-music-labels-riaa-ifpi-2026/">44% of New Songs Are AI. The Industry Just Labeled Them - AIxploria</a></li>
+<li><a href="https://musically.com/2026/07/30/ifpi-will-use-labels-proposed-ai-music-rules-for-its-own-official-charts/">IFPI will use labels&#x27; proposed AI-music rules for its own ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Music Industry`, `#Copyright`, `#Regulation`, `#Intellectual Property`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [VLMs&\#x27; Radiology Report Benchmarks Mask Clinical Term Erasure and Bias](https://www.reddit.com/r/MachineLearning/comments/1vcipzz/vlms_can_score_well_on_benchmarks_while_silently/) ⭐️ 8.0/10
+### [Qwen Releases Audio-3.0-ASR-Flash with Over 95% Medical Term Recognition](https://x.com/Alibaba_Qwen/status/2083111834123407825) ⭐️ 8.0/10
 
-Researchers observed that Vision-Language Models \(VLMs\) generating radiology reports from chest x-rays achieve high scores on standard benchmarks despite silently omitting clinically meaningful terms and introducing bias. These existing evaluation metrics often reward repetitive, template-driven reports that lack clinical utility, overlooking the erasure of rare but crucial words. To address this, a new research paper, &quot;Measuring What VLMs Don&\#x27;t Say: Validation Metrics Hide Clinical Terminology Erasure in Radiology Report Generation,&quot; introduces a framework designed to accurately measure the extent of term erasure and the introduction of biased terms in VLM-generated radiology reports. This work highlights a significant gap in current VLM evaluation for sensitive applications like healthcare.
+On July 31, Qwen released its new generation speech recognition model, Qwen-Audio-3.0-ASR-Flash, which emphasizes contextual consistency, domain-specific term recognition, custom hotwords, and structured text output from speech. Internal tests show the model achieves a 95.36% recall rate for medical terms and 93.24% for industrial terms. This model offers three deployment options—real-time streaming, recorded file transcription, and non-real-time recognition—all available through Alibaba Cloud&\#x27;s model services.
 
-reddit · r/MachineLearning · /u/ade17\_in · Aug 1, 09:27
+telegram · zaihuapd · Aug 1, 03:29
 
-**「Background」** Vision-Language Models \(VLMs\) are AI systems capable of processing and understanding both visual information \(like medical images\) and text, often used for tasks such as generating descriptive reports. Radiology Report Generation \(RRG\) specifically involves VLMs creating textual diagnostic reports based on medical scans like chest x-rays. Standard evaluation metrics are typically used to quantify the performance of these models, aiming to ensure their accuracy and reliability in clinical settings.
+**「Background」** Automatic Speech Recognition \(ASR\) systems convert spoken language into text. While general ASR models are widely available, specialized domains like medicine or industry often require enhanced accuracy for their unique and complex terminology, which standard models typically struggle to identify reliably.
 
-**「Impact」** This finding critically undermines the perceived reliability of Vision-Language Models in healthcare, as high benchmark scores may not reflect actual clinical utility or safety.
+**「Impact」** This release provides organizations in medical and industrial sectors with a highly accurate and flexible speech recognition solution, potentially streamlining workflows that rely on transcribing specialized vocabulary.
 
-**Tags**: `#Machine Learning`, `#Artificial Intelligence`, `#Model Evaluation`, `#Healthcare AI`, `#Bias in AI`
+**Tags**: `#Speech Recognition`, `#Artificial Intelligence`, `#Machine Learning`, `#Natural Language Processing`, `#Cloud Services`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Major Labels Propose Excluding AI-Generated Songs from Music Charts](https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts) ⭐️ 8.0/10
+### [China Promotes Open-Weight AI Models to Global South at UN Summit, Contrasting US Approach](https://www.semafor.com/article/07/28/2026/token-diplomacy-how-china-is-shaping-the-worlds-ai-future) ⭐️ 8.0/10
 
-Universal Music, Sony Music, Warner Music, and other major record labels have jointly proposed new rules to exclude AI-generated songs from official global music charts unless they are &quot;substantially created by humans.&quot; This proposal expands on previous initiatives by organizations like RIAA and IFPI, requiring not only clear labeling but also that AI services used are legally authorized, model training data is copyrighted, and that the songs comply with relevant copyright and personality rights laws, while also prohibiting chart manipulation. Although IFPI supports the proposal, no chart organizations have yet committed to adopting it, and the key criterion of &quot;substantially created by humans&quot; remains vaguely defined, with Sony Music and Universal Music declining to comment.
+At the UN &\#x27;AI for Good&\#x27; summit in Geneva in late July, China promoted its open-weight AI models and infrastructure to Global South nations, including Pakistan, Russia, and Zambia. Alibaba Cloud architect Wang Jian positioned Chinese AI as a potential &\#x27;cornerstone&\#x27; for development, akin to energy, while US frontier labs and Trump administration officials were notably absent. This &\#x27;token diplomacy&\#x27; strategy involves offering open-source models at lower prices than US competitors and providing training, directly contrasting with the US&\#x27;s closed-source model approach. The initiative is seen as a strategic move to shape the global AI future and has raised concerns about potential dependencies on Chinese infrastructure and standards.
 
-telegram · zaihuapd · Aug 1, 02:53
+telegram · zaihuapd · Aug 1, 10:06
 
-**「Background」** Previously, organizations like the RIAA \(Recording Industry Association of America\) and IFPI \(International Federation of the Phonographic Industry\) proposed an AI labeling standard for music. This proposal, which emerged around July 2026, aimed to introduce visible &quot;AI-Generated&quot; or &quot;AI-Assisted&quot; labels on streaming platforms, particularly when AI created the entirety or primary portion of a recording&\#x27;s creative elements. The broader music industry has been pushing for such labeling to address the increasing presence of AI in music creation.
+**「Context of AI Models and Governance」** AI models can be categorized by their accessibility: &quot;open-weight&quot; models make their underlying parameters publicly available, allowing for inspection and modification, while &quot;closed-source&quot; models keep these parameters proprietary. The United Nations &quot;AI for Good&quot; Global Summit is an annual event that brings together stakeholders to discuss the responsible development and governance of artificial intelligence for societal benefit. This summit often serves as a platform for international dialogue on AI standards and cooperation. 
 
-**「Impact」** If adopted, the proposal by major record labels would prevent AI-generated songs not deemed &quot;substantially human-made&quot; from appearing on global official music charts, directly impacting their potential for mainstream recognition and commercial success. However, the proposal&\#x27;s adoption by chart organizations and the precise definition of &quot;substantially human-made&quot; are still pending.
+**「Impact」** This Chinese initiative risks creating a reliance among Global South countries on Chinese AI infrastructure and standards, a concern explicitly voiced by the US State Department.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.youbeat.it/en/ai-music-labeling-system-riaa-ifpi-streaming-2026/">AI Music Labels Are Coming: What the Proposal Means | youBEAT</a></li>
-<li><a href="https://www.youtube.com/watch?v=mCl-WNzLPCY">AI Music Labels Are Coming: Will Your SUNO Songs Be... - YouTube</a></li>
-<li><a href="https://www.techtimes.com/articles/320433/20260714/streaming-platforms-back-ai-music-labels-fraud-actors-exploit-self-reporting-gap.htm">Streaming Platforms Back AI Music Labels as Fraud Actors Exploit...</a></li>
-<li><a href="https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts">The major labels propose rules to keep AI slop off the charts | The Verge</a></li>
-<li><a href="https://entertainment.slashdot.org/story/26/07/31/2038220/the-major-labels-propose-rules-to-keep-ai-slop-off-the-charts">The Major Labels Propose Rules to Keep AI Slop Off the Charts - Slashdot</a></li>
-<li><a href="https://musically.com/2026/07/29/music-labels-want-ai-music-barred-from-official-charts-unless-it-meets-certain-criteria/">Music labels want AI music barred from official charts – unless it meets certain criteria - Music Ally</a></li>
+<li><a href="https://www.itu.int/zh/mediacentre/Pages/PR-2026-03-25-AI-for-Good-Global-Summit.aspx">国际电联“人工智能向善”全球峰会将于7月召开</a></li>
+<li><a href="http://jxt.hubei.gov.cn/bmdt/rdjj/202607/t20260713_5975258.shtml">李乐成率团出席联合国人工智能治理全球对话首次会议等系列活动-湖北省经济和信息化厅</a></li>
+<li><a href="https://www.unesco.org/en/articles/un-global-dialogue-opens-urgent-call-safe-and-inclusive-ai-benefits-all">联合国启动全球对话，紧急呼吁构建安全、包容、普惠的人工 ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Artificial Intelligence`, `#Music Industry`, `#Intellectual Property`, `#Policy`, `#Generative AI`
+**Tags**: `#Artificial Intelligence`, `#Geopolitics of Technology`, `#Open Source`, `#AI Infrastructure`, `#International Relations`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Google to Exempt Sanctioned Nations from Android Developer Verification](https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/) ⭐️ 8.0/10
+### [Microsoft Confirms Copilot &\#x27;Super App&\#x27; Launch This Year](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed) ⭐️ 8.0/10
 
-Google plans to exempt developers in sanctioned countries, including Iran, Cuba, North Korea, and occupied Ukrainian territories, from its upcoming Android developer verification system. This policy change, effective August 2026, means developers in these regions can continue distributing apps without submitting identity proof or paying fees. However, devices in these areas will not benefit from the enhanced security protections offered by the verification program. Concurrently, unverified apps from other regions will be blocked from sideloading on Android devices equipped with Google services.
+Microsoft CEO Satya Nadella confirmed during an earnings call that the company will launch an AI &quot;super app&quot; this year. This new application will integrate Copilot&\#x27;s chat, programming \(including code features\), and agentic capabilities, serving both consumer and commercial scenarios. Nadella stated that Copilot is evolving from a chat tool to &quot;Cowork&quot; and &quot;Autopilots,&quot; with these experiences being merged into a single super app this quarter. This move consolidates various AI functionalities, reflecting a strategic shift in Microsoft&\#x27;s AI product development.
 
-telegram · zaihuapd · Aug 1, 03:08
+telegram · zaihuapd · Aug 1, 13:18
 
-**「Background」** Google is implementing a new Android developer verification system designed to protect users and developers from malicious actors by ensuring app authenticity. This system requires developers to verify their personal details, such as legal name and address, and is set to begin implementation in August 2026, with requirements taking effect in September 2026. Unverified apps will eventually be blocked from sideloading on Android devices with Google services.
+**「Background」** Microsoft&\#x27;s Copilot has been developing from a basic chat interface towards more advanced &quot;Cowork&quot; and &quot;Autopilot&quot; functionalities. Reports from Fortune previously indicated Microsoft&\#x27;s intent to build an application combining Copilot chatbot, GitHub Copilot, Copilot Cowork, and Autopilot systems. This strategy aligns with recent industry trends, such as OpenAI&\#x27;s launch of ChatGPT Work, which integrates ChatGPT with Codex.
 
-**「Impact」** Developers in sanctioned countries such as Iran, Cuba, and North Korea will retain the ability to distribute Android apps without identity verification or fees, while users in these regions will forgo the enhanced security protections of Google&\#x27;s new system.
+**「Impact」** This consolidation of diverse AI capabilities into a single &quot;super app&quot; is poised to streamline user interaction with AI tools, potentially enhancing productivity for both individual consumers and commercial enterprises by offering a unified platform for chat, coding, and agentic tasks.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://support.google.com/android-developer-console/answer/16561738?hl=en">Understanding Android developer verification - Android Developer Console Help</a></li>
-<li><a href="https://android-developers.googleblog.com/2026/03/android-developer-verification.html">Android Developers Blog: Android developer verification: Balancing openness and choice with safety</a></li>
-<li><a href="https://developer.android.com/developer-verification">Android developer verification | Android Developers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Android`, `#Platform Policy`, `#App Distribution`, `#Mobile Security`, `#Developer Tools`
+**Tags**: `#Artificial Intelligence`, `#Software Engineering`, `#Microsoft`, `#AI Tools`, `#Product Strategy`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [美财长“待办清单”被拍到：拟购买 50 亿至 100 亿美元日元](https://jp.reuters.com/opinion/2POJ2FWMAZLRFDQ4CQRAOHLAOA-2026-07-31/) ⭐️ 9.0/10
+### [US Treasury Secretary&\#x27;s Memo Shows Potential Yen Purchase Plan](https://jp.reuters.com/opinion/2POJ2FWMAZLRFDQ4CQRAOHLAOA-2026-07-31/) ⭐️ 9.0/10
 
-A photograph of the US Treasury Secretary&\#x27;s memo suggests a plan to buy 5-10 billion USD in Japanese Yen, signaling a potential major US currency market intervention following Japan&\#x27;s own efforts to support its currency.
+A photographed memo of US Treasury Secretary Besant showed a &quot;to-do&quot; item to buy $5 billion to $10 billion in Japanese Yen, which would mark the first US intervention to support the Yen since 2011.
 
 telegram · zaihuapd · Aug 1, 05:52
 
-**Tags**: `#Currency Intervention`, `#US Treasury`, `#Japanese Yen`, `#Foreign Exchange Policy`, `#International Finance`
+**「Background」** This potential US action follows Japan&\#x27;s own intervention earlier the same day to buy Yen, and the last US intervention for the Yen was in 2011, coordinated with G7 countries after the Great East Japan Earthquake.
+
+**「Impact」** The US Treasury&\#x27;s intervention to buy yen, potentially in coordination with Japan, aims to support the Japanese currency and strengthen Japan&\#x27;s economy.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.financialexpress.com/market/global-markets/why-is-trump-helping-japan-revive-the-yen-impact-of-rare-intervention-explained/4308336/">Why is Trump helping Japan revive the Yen? Bessent’s $5-10 ...</a></li>
+<li><a href="https://www.cnbc.com/2026/08/01/us-treasury-intervenes-to-support-yen-after-japan-steps-in-ft.html">U.S. Treasury intervenes to support yen after Japan steps in: FT</a></li>
+<li><a href="https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1">US Treasury undertakes historic intervention in yen market</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Currency Intervention`, `#US Treasury`, `#Japanese Yen`, `#Monetary Policy`, `#Global Markets`
 
 ---
