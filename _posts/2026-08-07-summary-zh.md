@@ -5,201 +5,261 @@ date: 2026-08-07
 lang: zh
 ---
 
-> 从 44 条内容中筛选出 10 条重要资讯。
+> 从 38 条内容中筛选出 10 条重要资讯。
 
 ---
 
 **科技新闻**
-1. [中国科学家首次证实全新物质形态「胶球」存在](#item-tech-news-1) ⭐️ 9.0/10
-2. [字节跳动讨论训练超 5 万亿参数大模型，张一鸣强调追求智能上限与编程能力](#item-tech-news-2) ⭐️ 9.0/10
-3. [OpenAI 推出 Agent Plugins 开放标准，庆祝 GPT-5 发布一周年](#item-tech-news-3) ⭐️ 9.0/10
-4. [AMD 收购 Taalas 以通过硅刻蚀模型提升 AI 推理性能](#item-tech-news-4) ⭐️ 8.0/10
-5. [马里奥遇上帕累托：软件工程中的权衡与优化](#item-tech-news-5) ⭐️ 8.0/10
-6. [AI 时代软件开发中人类品味的持久价值](#item-tech-news-6) ⭐️ 8.0/10
-7. [ProvenMetal 推出快速国内电路板制造服务，将交付时间从数周缩短至数天](#item-tech-news-7) ⭐️ 8.0/10
-8. [Datasette 1.0a38 修复关键 SQL 注入漏洞，影响混合公共和私有表的实例](#item-tech-news-8) ⭐️ 8.0/10
-9. [双向扩散模型通过往返一致性预测自身展开误差](#item-tech-news-9) ⭐️ 8.0/10
-10. [探索将重复 LLM 任务合成为确定性 ML/NLP 管道](#item-tech-news-10) ⭐️ 8.0/10
+1. [据报道，2027 年内存产能已售罄](#item-tech-news-1) ⭐️ 9.0/10
+2. [OpenAI Astra 模型或具「关键」网络攻击能力，扩大安全测试或推迟发布](#item-tech-news-2) ⭐️ 9.0/10
+3. [DeepSeek V4 Flash 0731 模型：性能、速度与成本效益显著提升](#item-tech-news-3) ⭐️ 8.0/10
+4. [汇编指令性能陷阱与副作用“耻辱堂”项目](#item-tech-news-4) ⭐️ 8.0/10
+5. [Oracle 禁止 OpenJDK 接受 AI 生成代码](#item-tech-news-5) ⭐️ 8.0/10
+6. [通过批处理、操作符融合和 SIMD 使 Postgres 分析速度提升 300 倍](#item-tech-news-6) ⭐️ 8.0/10
+7. [Kitesurf：在 V8 隔离环境中运行的代理优先浏览器](#item-tech-news-7) ⭐️ 8.0/10
+8. [网站所有者与抓取器斗争一年，99%流量为机器人](#item-tech-news-8) ⭐️ 8.0/10
+9. [新墨西哥州法院判决 Meta 因儿童心理健康问题支付 5.67 亿美元](#item-tech-news-9) ⭐️ 8.0/10
+
+**财经新闻**
+1. [美国 7 月就业数据不及预期，美联储 9 月加息预期下降](#item-finance-news-1) ⭐️ 9.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [中国科学家首次证实全新物质形态「胶球」存在](https://mp.weixin.qq.com/s/pvyNR1lN7QPx3IrpB3WtUg) ⭐️ 9.0/10
+### [据报道，2027 年内存产能已售罄](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) ⭐️ 9.0/10
 
-中国科学院高能物理所领衔的北京谱仪Ⅲ实验国际合作组，历经 15 年研究，首次实验证实了全新物质形态“胶球”的存在。研究团队依托北京正负电子对撞机上的北京谱仪Ⅲ装置，于 2011 年发现新粒子 X\(2370\)，并在 2024 年测得其量子态性质与胶球特性一致。最新研究进一步发现多个新衰变模式并测定其“味单态”性质，证实 X\(2370\)的主要成分是胶球，这是近五十年来寻找胶球最明确的实验结果，对检验粒子物理标准模型具有重要意义。
+据报道，2027 年的内存产能已预售一空，主要原因是人工智能（AI）对高带宽内存（HBM）的巨大需求。这一情况预示着硬件和 AI 开发将面临长期且重大的限制。HBM 的生产对晶圆消耗量远高于传统 DDR5 内存，加剧了行业供应紧张，对整个技术供应链产生深远影响。
 
-telegram · zaihuapd · 8月6日 07:31
+hackernews · inigyou · 8月7日 07:58 · [社区讨论](https://news.ycombinator.com/item?id=49207236)
 
-**「背景」** 胶球是一种由传递强相互作用的胶子相互吸引结合而成的全新物质形态。尽管粒子物理标准模型预言了胶球的存在，但在此次发现之前，它们从未在实验中被明确观测到。
+**「背景」** 高带宽内存（HBM）是一种专为需要极快数据传输的应用（如人工智能和高性能计算）设计的高性能 RAM。其堆叠架构相比传统 DRAM 能提供显著更高的带宽，使其成为训练大型 AI 模型的关键组件。人工智能开发者对 HBM 的强劲需求，导致三星、SK 海力士和美光等主要制造商的订单量迅速增长。
 
-**「影响」** 这一突破性发现为粒子物理标准模型提供了关键的实验验证，显著深化了人类对强相互作用和宇宙基本构成粒子的理解。
+**「影响」** 2027 年内存产能的预售一空，特别是受 AI 驱动的 HBM 需求影响，将对硬件可用性、AI 发展以及更广泛的技术供应链造成重大且长期的制约。
 
-**标签**: `#Particle Physics`, `#Fundamental Science`, `#Experimental Physics`, `#Standard Model`
+**「社区讨论」** 社区讨论指出，生产相同位数的 HBM3E 所需的晶圆量大约是 DDR5 的三倍，这严重限制了非 HBM 产品的供应增长。有用户表示已感受到内存价格上涨和订单取消的影响，并对 AI 对内存和存储的压力表示担忧，甚至考虑囤积内存。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.tweaktown.com/news/113004/memory-capacity-for-all-of-2027-has-reportedly-been-booked-and-sold-with-no-more-dram-or-hbm-available/index.html">Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available</a></li>
+<li><a href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out">Now That 2027 RAM Manufacturing Capacity Has Reportedly Been Sold Through, It&#x27;s Hard To Imagine the RAMageddon Ending Any Time Soon</a></li>
+<li><a href="https://www.sammyfans.com/2026/08/03/ai-demand-books-all-2027-dram-hbm-supply/">AI demand reportedly books nearly all 2027 DRAM and HBM supply from Samsung, SK Hynix, and Micron - Sammy Fans</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Hardware`, `#Supply Chain`, `#Memory`, `#Computer Systems`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [字节跳动讨论训练超 5 万亿参数大模型，张一鸣强调追求智能上限与编程能力](https://mp.weixin.qq.com/s/_SGStRsaJmpos2_deXUs8A) ⭐️ 9.0/10
+### [OpenAI Astra 模型或具「关键」网络攻击能力，扩大安全测试或推迟发布](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) ⭐️ 9.0/10
 
-字节跳动正在讨论训练一个参数规模超 5 万亿的大模型，该项目由 Seed Foundation 负责人项亮主导，并与大语言模型预训练数据负责人沈科合作。若该计划落地，其参数规模将超越阿里 Qwen 3.8-Max 和月之暗面 K3，成为国内已知最大的模型。创始人张一鸣明确反对通过“蒸馏路线”复制现有模型能力，鼓励团队以追求智能上限为目标，接受短期落后，并专注于开发有特色的模型，尤其认可编程作为当前关键方向，已整合火山引擎、飞书和豆包资源进行重点投入。目前该计划仍处于早期阶段，Seed 团队正重新梳理组织并收拢资源以推动此项目。
+OpenAI 于 2026 年 8 月 7 日披露，其即将推出的 Astra 模型在内部评估中展现出代理编码和网络安全方面的显著进步，其初步结果强大到无法排除达到「关键」网络能力阈值的可能性。这意味着 Astra 或能在无人干预下自主发现并利用真实系统的零日漏洞，或仅凭高层目标策划并执行新型网络攻击，而此前模型如 GPT-5.6-Sol 仅被评为「高」。鉴于此，OpenAI 已暂停不符合强化安全要求的内部活动，并采取隔离测试环境、加密增强和通用监控等措施，同时计划与政府机构及 AI 安全组织合作进行第三方测试，这可能导致模型发布推迟。
 
-telegram · zaihuapd · 8月6日 13:10
+telegram · zaihuapd · 8月7日 16:44
 
-**「背景」** 大型语言模型（LLM）是人工智能领域的一种模型，通过在海量文本数据上进行训练，能够理解、生成和处理人类语言。模型参数是其内部的变量，决定了模型学习和表示复杂模式的能力，参数规模越大通常意味着模型越强大。而“蒸馏路线”是一种模型压缩技术，通过让一个大型“教师”模型指导一个更小、更快的“学生”模型进行训练，使其复制教师模型的性能，但张一鸣认为这种方法难以实现超越。
+**「背景」** 「关键」网络能力阈值在 AI 领域指的是模型能够自主执行高级网络攻击任务，例如在无需人工干预的情况下发现并利用未知的「零日漏洞」。零日漏洞是指软件中尚未被开发者知晓或修复的缺陷，攻击者可利用其发起攻击，因此其利用能力对网络安全构成重大威胁。
 
-**「影响」** 字节跳动此举标志着其在 AI 大模型领域采取了激进且差异化的战略投资方向，可能重塑中国大模型竞争格局，并推动行业向更深层次的智能和应用能力探索。
+**「影响」** OpenAI 内部评估结果促使其大幅扩展安全测试并可能推迟 Astra 模型的发布，凸显了 AI 自主能力在网络安全领域带来的前所未有的风险，并可能重塑 AI 安全研究和监管的优先级。
 
-**标签**: `#Artificial Intelligence`, `#Large Language Models`, `#Machine Learning`, `#Tech Industry Strategy`, `#AI Development`
+**标签**: `#Artificial Intelligence`, `#AI Safety`, `#Cybersecurity`, `#Autonomous Agents`, `#Software Engineering`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [OpenAI 推出 Agent Plugins 开放标准，庆祝 GPT-5 发布一周年](https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/) ⭐️ 9.0/10
+### [DeepSeek V4 Flash 0731 模型：性能、速度与成本效益显著提升](https://arcprize.org/results/deepseek-v4-flash-0731) ⭐️ 8.0/10
 
-OpenAI 在 GPT-5 发布一周年之际，推出了 Agent Plugins 开放标准，旨在提供一个厂商中立、可移植的插件格式，用于打包 AI Agent 技能和 MCP 服务器，以实现客户端的统一发现和加载。该项目已公开授权开发，并由亚马逊、Cursor、微软、OpenAI 和 Vercel 等公司组成的指导委员会共同推进。过去一年，GPT-5 家族经历了从 5.1 到 5.6 的快速迭代，并已集成到苹果的 Apple Intelligence 等平台中。此外，Codex 应用于今年 7 月成为新的 ChatGPT 桌面客户端。
+DeepSeek V4 Flash 0731 模型实现了性能、速度和成本效益的显著飞跃，被认为是其前代版本的一次“整体升级”。该模型作为一款功能强大且实用的工具，在广泛的 AI 驱动应用和软件开发工作流程中展现出极高价值。它尤其适用于调试、文档分析和通用软件工程任务，这得益于其卓越的性能和低廉的运营成本。
 
-telegram · zaihuapd · 8月7日 00:46
+hackernews · tosh · 8月7日 17:56 · [社区讨论](https://news.ycombinator.com/item?id=49214008)
 
-**「背景」** GPT-5 是 OpenAI 于 2025 年 8 月 7 日发布的大型语言模型，在过去一年中持续更新并被广泛应用。此次推出的 Agent Plugins 标准，旨在解决不同 AI Agent 之间互操作性的挑战，促进 AI 生态系统的开放与发展。
+**「背景」** DeepSeek V4 Flash 0731 是一个 284B 的专家混合（MoE）模型，专为编码、工具使用和代理工作流设计。它拥有 130 亿个活跃参数和一个 100 万 token 的上下文窗口，旨在提供高性能和高效率。该模型是 DeepSeek V4 系列中的一个版本，专注于提供快速且经济的 AI 能力。
 
-**「影响」** 这一开放标准的推出，有望显著提升不同 AI Agent 之间的互操作性和可移植性，为开发者和用户提供更统一、更便捷的 AI 技能集成与管理体验。
+**「影响」** DeepSeek V4 Flash 0731 模型显著提升的能力、速度和经济性，使其成为开发人员和组织构建 AI 驱动应用及优化软件开发流程的实用且易于获取的工具。
 
-**标签**: `#Artificial Intelligence`, `#Software Engineering`, `#Open Standards`, `#AI Agents`, `#Tech Industry`
+**「社区讨论」** 社区用户普遍赞扬 DeepSeek V4 Flash 0731 模型“好到几乎可以用于一切”且“成本低到可以忽略不计”，有用户表示即使运行多个活跃会话，每天花费也低于 5 美元。许多人认为它比之前的预览版有了“整体升级”，并强调其速度（例如在特定硬件上预填充约 8k token/秒，单流约 250 token/秒）以及在调试和文档分析方面的能力是其“杀手级特性”。然而，也有用户报告称新版本存在进入无限循环、自言自语不执行工具调用、浪费 token 以及随机跑题等问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://lmstudio.ai/models/deepseek-v4-flash">DeepSeek V4 Flash - lmstudio.ai</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Artificial Intelligence`, `#Machine Learning`, `#Large Language Models`, `#Software Engineering`, `#Performance`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [AMD 收购 Taalas 以通过硅刻蚀模型提升 AI 推理性能](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) ⭐️ 8.0/10
+### [汇编指令性能陷阱与副作用“耻辱堂”项目](https://github.com/xoreaxeaxeax/asm-hall-of-shame) ⭐️ 8.0/10
 
-AMD 已收购人工智能芯片初创公司 Taalas，旨在通过将 AI 模型直接刻蚀到硅中，显著提升人工智能推理的性能和效率。此举是 AMD 在快速增长的 AI 市场中的一项战略性举措，代表了一种新颖的软硬件协同设计方法，以增强其计算解决方案。此次收购旨在应对日益激烈的 AI 硬件竞争，并为更高效的模型推理提供支持。
+GitHub 项目“Assembly Hall of Shame”汇编了已知执行异常缓慢或具有问题副作用的汇编指令，为深入理解低级系统性能和安全漏洞提供了宝贵见解。该项目详细探讨了这些晦涩且有问题的指令，揭示了它们如何导致性能瓶颈以及潜在的安全风险，例如与系统管理模式（SMM）相关的漏洞。它对系统编程、安全研究和硬件领域的专家具有重要价值。
 
-hackernews · itvision · 8月6日 20:23 · [社区讨论](https://news.ycombinator.com/item?id=49201970)
+hackernews · piotrgrabowski · 8月7日 18:01 · [社区讨论](https://news.ycombinator.com/item?id=49214098)
 
-**「背景」** 人工智能推理是指使用已训练的人工智能模型对新数据进行预测或决策的过程。传统上，AI 模型在通用硬件上运行，其权重和架构在运行时加载。Taalas 的技术通过将 AI 模型直接刻蚀到硅片中，为特定模型定制加速器，从而显著提升推理性能和效率。
+**「背景」** 汇编语言是一种低级编程语言，直接与计算机硬件交互，每条指令通常对应一个特定的 CPU 操作。在某些情况下，特定的汇编指令可能因其意外的缓慢执行或产生意想不到的副作用而闻名。系统管理模式（SMM）是 x86 处理器的一种特殊操作模式，用于处理电源管理、硬件错误处理等关键系统功能，其代码以最高权限运行，因此与 SMM 相关的漏洞可能导致严重的安全问题。
 
-**「影响」** 此次收购有望通过硬件层面的优化，为需要高性能 AI 推理的开发者和用户带来更快的处理速度和更高的效率。然而，鉴于 AI 模型迭代速度快，硅刻蚀模型可能面临发布时已落后的风险，其市场价值可能取决于能否提供足够便宜的推理服务。
+**「影响」** 该项目为系统编程、安全研究和硬件领域的专家提供了关键资源，帮助他们识别和规避低级性能瓶颈及潜在的安全漏洞。
 
-**「社区讨论」** 社区讨论对未来 AI 能力的飞速发展表示惊叹，并指出谷歌已在 TPU 上进行类似尝试，对 OpenAI 和 Anthropic 未能率先采取此举感到意外。主要担忧集中在 AI 模型快速更新的背景下，硅刻蚀模型在产品推出时可能已经过时，以及如何平衡“峰值性能”与“可靠性能”之间的差异。
+**「社区讨论」** 社区讨论指出，该项目与作者的另一个利用慢指令破坏 SMI 的项目\`smiiiiiiiiiiiiiiii\`相关联。有评论推测，排行榜上某些耗时操作（如写入 ACPI IO 端口）可能涉及 SMM 陷阱处理。此外，讨论还提及了作者的其他创意项目，例如一个仅使用\`mov\`指令的编译器以及一个故意干扰控制流以影响反汇编器显示的编译器。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD buys chip startup that hardwires AI models into its silicon</a></li>
-<li><a href="https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market">AMD Acquires Taalas to Advance Compute Solutions for Rapidly ...</a></li>
-<li><a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344">AMD acquires AI chip startup Taalas to boost inference ...</a></li>
+<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7027.html">AMD SMM Vulnerabilities</a></li>
+<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7028.html">AMD SMM Callout Vulnerability</a></li>
+<li><a href="https://www.sentinelone.com/labs/zen-and-the-art-of-smm-bug-hunting-finding-mitigating-and-detecting-uefi-vulnerabilities/">Zen and the Art of SMM Bug Hunting | Finding, Mitigating and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Artificial Intelligence`, `#Hardware`, `#Machine Learning`, `#Computer Systems`, `#Semiconductors`
+**标签**: `#Assembly Language`, `#Computer Systems`, `#Performance Optimization`, `#Security Research`, `#Hardware`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [马里奥遇上帕累托：软件工程中的权衡与优化](https://www.mayerowitz.io/blog/mario-meets-pareto) ⭐️ 8.0/10
+### [Oracle 禁止 OpenJDK 接受 AI 生成代码](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ⭐️ 8.0/10
 
-该文章探讨了帕累托最优性概念及其在软件工程、系统设计和优化中的关键作用，尤其强调了其在理解和应对权衡时的重要性。帕累托最优性帮助开发者识别在多目标优化问题中，无法在不牺牲一个目标的情况下改进另一个目标的解决方案集合。这一概念对于人工智能和机器学习应用中的复杂决策制定具有高度相关性，指导工程师在性能、成本、用户体验等多个维度之间做出明智选择。
+Oracle 已实施一项临时政策，禁止向 OpenJDK 项目贡献由人工智能生成的代码，主要出于对潜在法律风险和代码质量的担忧。此举旨在保护 OpenJDK 的知识产权并维护其代码库的完整性，尽管 Oracle 自身也积极投资于 AI 技术。该政策目前处于过渡阶段，最终版本将由其法务团队制定。
 
-hackernews · theanonymousone · 8月6日 11:24 · [社区讨论](https://news.ycombinator.com/item?id=49195231)
+hackernews · delduca · 8月7日 17:36 · [社区讨论](https://news.ycombinator.com/item?id=49213754)
 
-**「背景」** 帕累托最优（Pareto optimality）是多目标优化中的一个概念，指的是在给定一组选择的情况下，无法在不损害至少一个目标的情况下改进任何一个目标的状态。帕累托前沿（Pareto frontier）则是所有帕累托最优解的集合，它代表了一系列权衡方案，其中任何一个方案都无法在所有目标上同时优于集合中的其他方案。通过关注帕累托前沿，决策者可以在这些高效的权衡点之间进行选择，而不是考虑所有可能的参数组合。
+**「背景」** OpenJDK 是 Java 平台标准版 \(Java SE\) 的开源实现，是 Java 生态系统的核心组成部分。生成式人工智能工具，如代码助手，能够根据提示生成代码、文本或其他内容，近年来在软件开发中越来越普及。
 
-**「社区讨论」** 社区讨论普遍认为帕累托最优性对开发者而言是一个极其重要的概念，尤其在评估“鱼与熊掌不可兼得”的权衡主张时，它指出这种说法仅在已达帕累托前沿时才成立。有用户分享了在《魔兽世界》经典版中优化物品构建和在《马里奥赛车》竞速中选择角色以平衡速度与加速的实际应用经验，进一步证明了该理论的实用价值。
+**「影响」** 此政策对 OpenJDK 的贡献者和依赖该项目的企业产生了直接影响，可能限制了 AI 辅助开发工具在关键开源项目中的应用。它也为其他大型开源项目在处理 AI 生成代码的知识产权和质量问题上树立了潜在的先例。
+
+**「社区讨论」** 社区讨论认为，Oracle 的政策可能源于其法律策略，旨在避免自身代码来源不明的风险，同时保留起诉他人“AI 洗白”专有代码的权利。尽管有人指出 Oracle 自身可能已使用 AI 生成发布说明，但鉴于 Java 过去的版权问题，许多人认为此临时政策是明智之举，但也对其最终版本的有效性表示怀疑。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_front">Pareto front - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto efficiency - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/p/pareto-efficiency.asp">Understanding Pareto Efficiency: Theory and Production Possibilities</a></li>
+<li><a href="https://openjdk.org/legal/ai">OpenJDK Interim Policy on Generative AI</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/oracle-genai-policies/">Oracle&#x27;s OpenJDK Bans Generative AI Contributions While Oracle&#x27;s GraalVM Allows Them - InfoQ</a></li>
+<li><a href="https://www.techzine.eu/news/devops/143395/oracle-bans-ai-generated-contributions-to-openjdk/">Oracle bans AI-generated contributions to OpenJDK - Techzine Global</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Software Engineering`, `#Optimization`, `#Decision Making`, `#Multi-objective Optimization`
+**标签**: `#OpenJDK`, `#AI Policy`, `#Open Source`, `#Software Engineering`, `#Intellectual Property`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [AI 时代软件开发中人类品味的持久价值](https://notashelf.dev/posts/taste-is-all-thats-left) ⭐️ 8.0/10
+### [通过批处理、操作符融合和 SIMD 使 Postgres 分析速度提升 300 倍](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) ⭐️ 8.0/10
 
-该文章及其讨论深入探讨了在软件开发中，人类直觉和“品味”的持久重要性，并将其与当前 AI 生成代码的能力和局限性进行了对比。尽管大型语言模型（LLMs）能够解决即时问题，但它们在长期、大规模项目上难以生成高质量、连贯的系统，其输出常被认为缺乏“信号”。文章强调，人类开发者通过经验积累的“品味”或判断力，对于构建卓越的软件系统至关重要，而这正是当前 AI 所欠缺的。
+一个项目展示了如何通过实现批处理、操作符融合和 SIMD 等高级查询引擎优化，显著加速 PostgreSQL 的分析工作负载，性能提升高达 300 倍。该项目还强调了通过形式化验证和差异模糊测试来确保正确性，解决了核心 PostgreSQL 在自适应规划方面长期存在的重大技术空白。
 
-hackernews · tsak · 8月6日 17:01 · [社区讨论](https://news.ycombinator.com/item?id=49199346)
+hackernews · poly2it · 8月7日 11:00 · [社区讨论](https://news.ycombinator.com/item?id=49208535)
 
-**「背景」** 在软件开发领域，“品味”指的是一种压缩的、无言的判断，它比任何理性论证都更快地形成，是一种带有完全信念但无需解释的直觉式“不行，重来”的反应。它代表了人类在设计和实现复杂系统时所展现的深层直觉和判断力，这与当前人工智能（AI）生成代码的能力形成了对比。
+**「背景」** pgrust 是一个实验性项目，旨在用 Rust 语言重写 PostgreSQL 数据库引擎，以提升性能和正确性。该项目通过实现批处理、操作符融合和 SIMD 等高级查询引擎优化技术，以及自适应查询规划，显著加速了分析型工作负载。
 
-**「影响」** 该讨论揭示了当前大型语言模型在生成高质量、连贯的软件系统方面的局限性，表明在复杂或长期软件项目中，人类的专业知识和判断力仍然是不可或缺的。
-
-**「社区讨论」** 社区普遍认同“品味”或“判断力”在软件开发中的关键作用，认为其通过大量实践和错误积累而成。然而，一些评论者对“品味”一词的准确性提出质疑，更倾向于使用“判断力”，并指出大型语言模型生成的代码虽然能解决眼前问题，但在中大型代码库中往往缺乏连贯性和“信号”，难以形成高质量的整体。
+**「社区讨论」** 项目作者强调了通过形式化验证和差异模糊测试来确保正确性的严格方法。尽管一些社区成员对非 Postgres 团队项目的长期采纳持怀疑态度，认为信任和连续性比技术优势更重要，但其他人则赞扬该项目证明了自适应规划和批处理执行的可行性，这些技术已在其他生产数据库中显示出显著的性能提升。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://notashelf.dev/posts/taste-is-all-thats-left">Taste Is All That &#x27; s Left | Blog</a></li>
+<li><a href="https://pgrust.com/">pgrust — postgres, rewritten in rust</a></li>
+<li><a href="https://github.com/malisper/pgrust">GitHub - malisper/ pgrust : Postgres rewritten in Rust , now faster than...</a></li>
+<li><a href="https://dev.to/terminalchai/pgrust-the-open-source-project-rewriting-postgresql-in-rust-4860">pgrust : The Open-Source Project Rewriting... - DEV Community</a></li>
+<li><a href="https://www.databasejournal.com/ms-sql/adaptive-query-processing-in-sql-server/">Adaptive Query Processing in SQL Server | Database Journal</a></li>
+<li><a href="https://www.academia.edu/65395688/A_Survey_on_Query_Processing_and_Optimization_in_Relational_Database_Management_System">(PDF) A Survey on Query Processing and Optimization in Relational...</a></li>
+<li><a href="https://www.facebook.com/bot.hackernews/videos/postgres-just-got-300x-faster-with-sql-batching-simd-tricks-postgres-database-ha/2247138442792740/">Postgres just got 300x faster with #SQL batching &amp; #SIMD ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Software Engineering`, `#Artificial Intelligence`, `#LLMs`, `#Software Development Philosophy`, `#Human Expertise`
+**标签**: `#Database Optimization`, `#PostgreSQL`, `#Query Engines`, `#Performance Engineering`, `#Open Source`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [ProvenMetal 推出快速国内电路板制造服务，将交付时间从数周缩短至数天](https://provenmetal.com/) ⭐️ 8.0/10
+### [Kitesurf：在 V8 隔离环境中运行的代理优先浏览器](https://blog.cloudflare.com/kitesurf/) ⭐️ 8.0/10
 
-ProvenMetal 推出一项服务，旨在通过自动化前端流程，将组装电路板的国内交付时间从数周缩短至数天。该公司专注于解决报价、制造设计 \(DFM\) 审查和零部件采购等瓶颈，而非物理组装，因为美国印刷电路板 \(PCB\) 生产已从 2000 年的全球 30% 下降到目前的 4%。ProvenMetal 利用 KiCAD 和 Altium 插件自动采购物料清单 \(BOM\) 并协调裸板制造和组装，已在六周内完成了 11 份订单，总计约 7 万美元。
+Kitesurf 是一款新型的代理优先浏览器，它基于开源的 Blitz 引擎构建，并利用 V8 隔离环境实现高效且安全的网络自动化。这一创新架构为网络抓取、测试以及 AI 代理提供了强大的平台，旨在解决现代软件工程和云环境中对大规模、安全自动化操作的关键需求。其设计理念对云原生应用和智能代理的未来发展具有重要意义。
 
-hackernews · willcarkner · 8月6日 15:59 · [社区讨论](https://news.ycombinator.com/item?id=49198464)
+hackernews · m3h · 8月7日 10:42 · [社区讨论](https://news.ycombinator.com/item?id=49208393)
 
-**「背景」** 传统上，电路板制造流程耗时漫长，通常需要数天才能获得报价和完成 DFM 审查，随后还需要数周时间进行零部件采购、组装和测试。这种漫长的交付周期，加上美国国内 PCB 制造能力在过去二十年中的显著下降，已成为硬件开发和原型设计的主要瓶颈。
+**「背景」** Kitesurf 是 Cloudflare 推出的一款新型无状态、代理优先的浏览器，它基于开源 Blitz 引擎构建，专为 AI 代理和网络自动化设计。它运行在 Cloudflare Workers 上，利用 V8 隔离技术提供高效、安全的环境，支持网页抓取、测试和内容生成等任务。
 
-**「影响」** ProvenMetal 的服务通过显著缩短组装电路板的交付时间，有望加速美国硬件公司的原型开发和产品迭代周期，从而增强国内技术供应链的韧性。
+**「影响」** Kitesurf 的推出为云原生应用和 AI 代理提供了更高效、安全的网络自动化解决方案，尤其对需要大规模网络操作的开发者和企业具有重要意义。
 
-**「社区讨论」** 社区成员普遍对美国出现更多制造选择表示支持，但对 ProvenMetal 的定价（尤其是在无人机和国防等行业）以及与中国制造商在成本和速度上的竞争能力表示担忧。有评论指出，即使在中国，零部件采购也常常是主要瓶颈，并建议 ProvenMetal 可以通过提供信用额度来增加其价值主张。
+**「社区讨论」** 社区讨论指出 Kitesurf 基于开源 Blitz 引擎构建，并计划开源其补丁。同时，有用户对 Cloudflare 作为 CDN 提供商与代理服务之间的潜在利益冲突表示担忧，并质疑其反机器人机制是否会豁免 Kitesurf 实例，也有用户询问了代理的实际应用场景。
 
-**标签**: `#Hardware Manufacturing`, `#Supply Chain`, `#Prototyping`, `#Computer Systems`, `#Technology Industry`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/kitesurf/">Introducing Kitesurf: The agent-first browser that runs in V8 ...</a></li>
+<li><a href="https://developers.cloudflare.com/browser-run/kitesurf/">Kitesurf · Cloudflare Browser Run docs</a></li>
+<li><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/">Cloudflare launches Kitesurf, a browser built for AI agents</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Software Engineering`, `#Web Automation`, `#Browser Engines`, `#Cloud Computing`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Datasette 1.0a38 修复关键 SQL 注入漏洞，影响混合公共和私有表的实例](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) ⭐️ 8.0/10
+### [网站所有者与抓取器斗争一年，99%流量为机器人](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) ⭐️ 8.0/10
 
-Datasette 发布了 1.0a38 版本，修复了一个关键的 SQL 注入安全漏洞。此漏洞影响在同一数据库中同时提供公共和私有表，并使用 Datasette 权限系统配置访问权限的实例。在受影响的配置中，即使禁用了 \`execute-sql\` 权限，拥有公共表访问权限的用户仍可通过 SQL 注入攻击，获得同一数据库中私有表的只读访问权限。管理员应及时更新，此修复也已回溯到 Datasette 0.65.3 版本。
+一位网站所有者详细讲述了其拥有 150 万页面的网站在一年内与 99%的机器人流量作斗争的经历。这场斗争凸显了基础设施成本的巨大挑战，例如月度账单曾从 90 美元飙升 500%。文章引发了社区对机器人缓解策略以及开放网络未来影响的广泛讨论，作者也承认其网站数据本身来源于抓取公共文档。
 
-rss · Simon Willison · 8月6日 18:24
+hackernews · petercooper · 8月7日 14:51 · [社区讨论](https://news.ycombinator.com/item?id=49211386)
 
-**「背景」** Datasette 是一个开源工具，旨在通过 Web 界面发布和探索数据，通常来自 SQLite 数据库。它允许用户配置权限系统，以管理对数据库中公共和私有表的访问。
+**「背景」** 网络爬虫（scrapers）和机器人（bots）是自动程序，它们以编程方式访问网站以执行特定任务，例如索引内容或收集数据。当这些自动化流量占据网站访问量的大部分时，会显著增加网站运营者的基础设施成本和资源消耗。
 
-**「影响」** 对于在同一 Datasette 实例中混合提供公共和私有表的管理员来说，此修复至关重要，因为它堵塞了未经授权访问敏感数据的安全漏洞。
+**「影响」** 机器人流量显著增加了网站的运营成本，导致基础设施账单在高峰期可能飙升高达 500%。
 
-**标签**: `#Security`, `#SQL Injection`, `#Datasette`, `#Open Source`, `#Data Management`
+**「社区讨论」** 社区讨论对将机器人管理外包给 Cloudflare 等大型公司表示担忧，认为这可能损害开放网络原则；同时，有用户推荐了 Anubis 等基于“工作量证明”的替代方案来检测真实浏览器。此外，有评论指出作者在抱怨抓取器的同时，其网站数据也来源于抓取，并分享了特定搜索引擎机器人（如 Claude-searchbot）大量抓取页面却不提供归属的经历。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">99 % of My Website Traffic Is Bots | PatronView</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Web Security`, `#Bot Management`, `#Web Infrastructure`, `#Data Scraping`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [双向扩散模型通过往返一致性预测自身展开误差](https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/) ⭐️ 8.0/10
+### [新墨西哥州法院判决 Meta 因儿童心理健康问题支付 5.67 亿美元](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) ⭐️ 8.0/10
 
-这项研究提出了一种新颖的方法，利用双向扩散模型进行自我监督，以预测其自身的展开误差。通过训练一个单一的条件潜在扩散模型，使其能够根据方向标志向前或向后推进动态系统，模型可以利用“往返差异”作为未观测展开误差的自我监督代理。这种方法无需地面真值、额外数据或集成模型，仅需一次额外的展开即可提供测试时误差信号。研究表明，在一个网络中训练两个方向的模型，其性能优于两个专门模型，显著提高了模型在生成 CELEBV-HQ 视频或湍流等长序列时的鲁棒性。
+2026 年 8 月 6 日，新墨西哥州一家法院裁定 Meta 公司需支付 5.67 亿美元，原因是其产品对儿童心理健康造成了损害。这一裁决标志着科技行业在法律和监管方面的一项重大进展，对社交媒体平台未来的产品设计和道德考量可能产生深远影响。此举为监管机构对大型科技公司施加监督树立了重要先例。
 
-reddit · r/MachineLearning · /u/Clean-Hovercraft5825 · 8月6日 12:10
+hackernews · boplicity · 8月7日 00:06 · [社区讨论](https://news.ycombinator.com/item?id=49204352)
 
-**「背景」** 扩散模型是一类强大的生成模型，通过逐步去噪来生成数据。然而，像潜在扩散或流模型这样的自回归模型在长时间展开（rollouts）过程中容易积累误差，并且在部署时通常缺乏地面真值来衡量这些误差。
+**「背景」** Meta 是一家全球知名的科技公司，旗下拥有 Facebook、Instagram 和 WhatsApp 等社交媒体平台。长期以来，社会各界对其产品，特别是社交媒体对青少年心理健康的影响表示担忧，引发了关于平台责任的广泛讨论。
 
-**「影响」** 这项研究通过提供一种无需外部监督的内部误差估计机制，显著提升了扩散模型在生成长序列数据（如视频或复杂物理模拟）时的可靠性和效率。
+**「影响」** 此判决为科技行业树立了重要的监管先例，可能促使社交媒体公司重新评估其产品设计和算法，以减轻对未成年用户的潜在危害。然而，社区讨论中也指出，对于 Meta 的财务状况而言，这笔罚款的实际影响仍有待观察，尤其考虑到新墨西哥州的人口规模。
 
-**标签**: `#Machine Learning`, `#Artificial Intelligence`, `#Diffusion Models`, `#Self-Supervised Learning`, `#Generative AI`
+**「社区讨论」** 社区讨论对罚款金额是否构成“轻微惩罚”存在分歧，但有评论指出，尽管新闻报道提及 5.67 亿美元，但实际判决金额可能高达 9.42 亿美元，且考虑到新墨西哥州的人口规模，这笔罚款对该州而言意义重大。评论还指出 Meta 违反了新墨西哥州的公共滋扰法，并有用户分享了社交媒体（如 Instagram Reels 和 TikTok）令人上瘾的个人经历，同时担忧 Meta 的财务前景以及算法需要改进。
+
+**标签**: `#Technology Industry`, `#Legal &amp; Regulation`, `#Social Media`, `#Ethics of Technology`, `#Public Policy`
 
 ---
 
-<a id="item-tech-news-10"></a>
-### [探索将重复 LLM 任务合成为确定性 ML/NLP 管道](https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/) ⭐️ 8.0/10
+## 财经新闻
 
-一项研究正在探索将重复的大型语言模型（LLM）工作负载替换为由正则表达式、确定性解析器以及传统机器学习和自然语言处理（NLP）模型自动构建的管道。该方法旨在通过一个校准的不确定性或域外门控机制，将复杂或超出验证范围的输入回溯到原始 LLM 处理，从而提高效率、可靠性和成本效益。管道的构建基于 41 种原子任务类型，涵盖分类、实体识别和关系提取等，并采用程序合成和形式验证的方法来生成和优化有向无环图（DAG）形式的候选管道。这种合成的程序被假设在有界输入分布上行为等效，而非恢复潜在的推理轨迹。
+<a id="item-finance-news-1"></a>
+### [美国 7 月就业数据不及预期，美联储 9 月加息预期下降](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) ⭐️ 9.0/10
 
-reddit · r/MachineLearning · /u/Ok\_Philosophy\_4031 · 8月6日 17:24
+美国经济在 7 月份意外出现就业岗位减少，导致投资者大幅降低了对美联储 9 月份加息的预期；根据芝商所（CME）的 FedWatch 工具，美联储维持利率不变的概率目前为 60%，高于周四的 45%。
 
-**「背景」** 大型语言模型（LLM）在处理复杂和开放式任务方面表现出色，但对于重复且结构化的任务，其成本和非确定性可能成为挑战。传统的机器学习和自然语言处理模型则通常具有更高的效率和确定性，适用于特定且定义明确的任务。此项研究旨在结合两者的优势，通过自动化管道来处理常规任务，同时保留 LLM 处理异常情况的能力。
+rss · CNBC Finance · 8月7日 13:34
 
-**标签**: `#Machine Learning`, `#Natural Language Processing`, `#LLM Optimization`, `#AI Systems`, `#Software Engineering`
+**「背景」** 美联储考虑加息以应对通胀，此前由于美国与伊朗的战争导致能源价格上涨，以及 2026 年劳动力市场表现强劲，一些美联储成员曾呼吁加息。
+
+**「影响」** 这份弱于预期的就业报告发布后，美国国债收益率下降，股市上涨，因为投资者根据新的利率路径预期进行了调整。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war">Economic impact of the 2026 Iran war - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
+<li><a href="https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher">US faces rising costs with Iran war driving energy prices, inflation higher | Inflation News | Al Jazeera</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Federal Reserve`, `#Interest Rates`, `#Jobs Report`, `#Monetary Policy`, `#Market Expectations`
 
 ---

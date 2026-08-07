@@ -5,204 +5,254 @@ date: 2026-08-07
 lang: en
 ---
 
-> From 44 items, 10 important content pieces were selected
+> From 38 items, 10 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Chinese Scientists Confirm Existence of Glueballs, a New Form of Matter](#item-tech-news-1) ⭐️ 9.0/10
-2. [ByteDance Reportedly Plans 5 Trillion Parameter LLM, Prioritizing Foundational AI and Programming](#item-tech-news-2) ⭐️ 9.0/10
-3. [OpenAI Launches Agent Plugins Open Standard on GPT-5&\#x27;s First Anniversary](#item-tech-news-3) ⭐️ 9.0/10
-4. [AMD Acquires Taalas to Etch AI Models into Silicon for Enhanced Inference](#item-tech-news-4) ⭐️ 8.0/10
-5. [Mario Meets Pareto: Understanding Trade-offs in Software Engineering and Optimization](#item-tech-news-5) ⭐️ 8.0/10
-6. [Taste Is All That&\#x27;s Left](#item-tech-news-6) ⭐️ 8.0/10
-7. [ProvenMetal Accelerates US Circuit Board Manufacturing to Days](#item-tech-news-7) ⭐️ 8.0/10
-8. [Datasette 1.0a38 Fixes Critical SQL Injection Vulnerability](#item-tech-news-8) ⭐️ 8.0/10
-9. [Round-Trip Consistency: Bidirectional Diffusion Models Predict Rollout Errors](#item-tech-news-9) ⭐️ 8.0/10
-10. [Synthesizing LLM Traces into Deterministic ML/NLP Pipelines](#item-tech-news-10) ⭐️ 8.0/10
+1. [2027 Memory Capacity Reportedly Sold Out Due to AI-Driven HBM Demand](#item-tech-news-1) ⭐️ 9.0/10
+2. [OpenAI&\#x27;s Astra Model Shows Potential for &\#x27;Critical&\#x27; Cyberattack Capabilities](#item-tech-news-2) ⭐️ 9.0/10
+3. [DeepSeek V4 Flash 0731 Model Offers Significant Performance and Cost Improvements](#item-tech-news-3) ⭐️ 8.0/10
+4. [Assembly Hall of Shame Project Details Slow and Problematic Instructions](#item-tech-news-4) ⭐️ 8.0/10
+5. [Oracle Bans AI-Generated Code from OpenJDK](#item-tech-news-5) ⭐️ 8.0/10
+6. [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](#item-tech-news-6) ⭐️ 8.0/10
+7. [Kitesurf: An Agent-First Browser Leveraging V8 Isolates for Web Automation](#item-tech-news-7) ⭐️ 8.0/10
+8. [A Year-Long Battle Against 99% Bot Traffic on a 1.5 Million-Page Website](#item-tech-news-8) ⭐️ 8.0/10
+9. [New Mexico Court Orders Meta to Pay for Children&\#x27;s Mental Health Harms](#item-tech-news-9) ⭐️ 8.0/10
+
+**Financial News**
+1. [U.S. July Jobs Miss Reduces September Fed Rate Hike Odds](#item-finance-news-1) ⭐️ 9.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Chinese Scientists Confirm Existence of Glueballs, a New Form of Matter](https://mp.weixin.qq.com/s/pvyNR1lN7QPx3IrpB3WtUg) ⭐️ 9.0/10
+### [2027 Memory Capacity Reportedly Sold Out Due to AI-Driven HBM Demand](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) ⭐️ 9.0/10
 
-Chinese scientists, leading the Beijing Spectrometer III \(BESIII\) experiment international collaboration, have experimentally confirmed the existence of glueballs, a new form of matter, after 15 years of research. Utilizing the Beijing Electron-Positron Collider and the BESIII detector, the team first discovered the particle X\(2370\) in 2011. In 2024, they measured its quantum state properties, finding them consistent with glueball characteristics, and further research identified new decay modes and its &quot;flavor singlet&quot; nature, confirming X\(2370\) is primarily a glueball. This breakthrough marks the clearest experimental result in nearly fifty years of searching for glueballs, which are predicted by the Standard Model but were previously unobserved, holding significant importance for testing the Standard Model of particle physics.
+Reports indicate that memory capacity for 2027 has been largely pre-sold, primarily driven by the escalating demand for High-Bandwidth Memory \(HBM\) in artificial intelligence applications. This significant pre-sale suggests a long-term constraint on the availability of hardware components crucial for both general computing and advanced AI development. The intense competition for HBM is expected to impact the broader technology supply chain, potentially affecting pricing and availability across various memory-dependent sectors for years to come.
 
-telegram · zaihuapd · Aug 6, 07:31
+hackernews · inigyou · Aug 7, 07:58 · [Discussion](https://news.ycombinator.com/item?id=49207236)
 
-**「Background」** Glueballs are a type of exotic matter composed solely of gluons, the elementary particles that mediate the strong nuclear force. Although their existence has been predicted by the Standard Model of particle physics for decades, experimental confirmation had remained elusive until this recent discovery. Understanding glueballs is crucial for a complete picture of quantum chromodynamics, the theory of the strong interaction.
+**「Background」** Dynamic Random-Access Memory \(DRAM\) is a common type of volatile memory used in most computing devices for main system memory. High Bandwidth Memory \(HBM\) is a specialized type of 3D-stacked DRAM designed to provide significantly higher bandwidth and lower power consumption, making it essential for high-performance applications like AI accelerators. The reported sell-out of 2027 memory capacity primarily concerns both standard DRAM and HBM, with AI demand being a major driver.
 
-**「Impact」** This experimental confirmation provides crucial evidence for a long-predicted but unobserved particle, significantly advancing our understanding of the strong interaction and validating a key aspect of the Standard Model.
+**「Impact」** The reported sell-out of 2027 memory capacity, particularly HBM for AI, will likely lead to increased costs and limited availability for hardware manufacturers and AI developers, potentially slowing innovation and product delivery in these sectors.
 
-**Tags**: `#Particle Physics`, `#Fundamental Science`, `#Experimental Physics`, `#Standard Model`
+**「Community Discussion」** Community members highlighted that HBM production consumes approximately three times the wafer capacity of DDR5 for an equivalent number of bits, exacerbating supply constraints for non-HBM products. Concerns were raised about the practical implications for consumers and developers, including rising prices for older DDR4 modules, the potential need to stockpile microcontroller RAM, and a general hesitancy to adopt AI due to its significant memory and storage demands.
+
+**Tags**: `#Artificial Intelligence`, `#Hardware`, `#Supply Chain`, `#Memory`, `#Computer Systems`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [ByteDance Reportedly Plans 5 Trillion Parameter LLM, Prioritizing Foundational AI and Programming](https://mp.weixin.qq.com/s/_SGStRsaJmpos2_deXUs8A) ⭐️ 9.0/10
+### [OpenAI&\#x27;s Astra Model Shows Potential for &\#x27;Critical&\#x27; Cyberattack Capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) ⭐️ 9.0/10
 
-ByteDance is reportedly discussing the development of a large language model with over 5 trillion parameters, a project led by Xiang Liang of Seed Foundation and Shen Ke, head of LLM pre-training data. This initiative, currently in early stages, would make it the largest known model in China, surpassing Alibaba&\#x27;s Qwen 3.8-Max and Moonshot AI&\#x27;s K3. Founder Zhang Yiming has directed the team to pursue the limits of intelligence and programming capabilities, explicitly rejecting distillation methods that merely replicate existing models like Claude, and has consolidated resources from Volcano Engine, Feishu, and Doubao to focus on programming.
+OpenAI disclosed on August 7, 2026, that its upcoming Astra model has demonstrated significant advancements in agentic coding and cybersecurity during internal evaluations. These preliminary results suggest the model might achieve &quot;critical&quot; cyber capabilities, a higher classification than previous models like GPT-5.6-Sol, which were rated &quot;high.&quot; This &quot;critical&quot; threshold implies the model could autonomously discover and exploit zero-day vulnerabilities in hardened systems or plan and execute novel cyberattacks from high-level objectives without human intervention. Consequently, OpenAI has expanded security testing, implemented enhanced measures like isolated testing environments and encryption, and plans third-party testing with government agencies and AI safety organizations, potentially delaying Astra&\#x27;s release.
 
-telegram · zaihuapd · Aug 6, 13:10
+telegram · zaihuapd · Aug 7, 16:44
 
-**「Background」** Large language models \(LLMs\) are artificial intelligence systems trained on massive datasets to understand, generate, and process human language, with &quot;parameters&quot; referring to the values learned during training that define the model&\#x27;s complexity and capabilities. Model distillation is a technique where a smaller model is trained to replicate the performance of a larger model, often for efficiency, but Zhang Yiming views it as limiting for achieving breakthrough intelligence.
+**「Background」** In the context of AI safety, &quot;critical cyber capabilities&quot; refers to an AI model&\#x27;s ability to perform highly sophisticated and autonomous cyber operations. This includes the capacity to independently identify and leverage previously unknown software flaws \(zero-day vulnerabilities\) in real-world systems or to devise and carry out complex, novel cyberattacks based solely on high-level strategic goals.
 
-**「Impact」** This strategic shift by ByteDance towards developing an unprecedentedly large foundational model, coupled with a focus on programming and unique intelligence, could significantly reshape the competitive landscape of AI development in China and globally.
+**「Impact」** The potential for Astra to achieve &quot;critical&quot; cyber capabilities directly impacts cybersecurity by introducing the prospect of highly autonomous AI-driven threats, necessitating a re-evaluation of defensive strategies and AI safety protocols across organizations and governments. This has already led OpenAI to significantly enhance its internal security testing and collaborate with external bodies, potentially setting new industry standards for AI model development and deployment.
 
-**Tags**: `#Artificial Intelligence`, `#Large Language Models`, `#Machine Learning`, `#Tech Industry Strategy`, `#AI Development`
+**Tags**: `#Artificial Intelligence`, `#AI Safety`, `#Cybersecurity`, `#Autonomous Agents`, `#Software Engineering`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [OpenAI Launches Agent Plugins Open Standard on GPT-5&\#x27;s First Anniversary](https://9to5mac.com/2026/08/06/gpt-5-turning-one-as-openai-shares-new-agent-plugins-standard/) ⭐️ 9.0/10
+### [DeepSeek V4 Flash 0731 Model Offers Significant Performance and Cost Improvements](https://arcprize.org/results/deepseek-v4-flash-0731) ⭐️ 8.0/10
 
-On August 7, 2026, marking the one-year anniversary of GPT-5&\#x27;s release, OpenAI introduced Agent Plugins, an open and vendor-neutral standard designed to enhance AI agent interoperability. This standard packages Agent Skills and MCP servers into a portable plugin format, enabling compatible clients to uniformly discover and load them. The initiative is openly licensed for development and is guided by a steering committee comprising major tech companies including Amazon, Cursor, Microsoft, OpenAI, and Vercel, aiming to foster a more unified AI agent ecosystem. This launch follows a year of rapid iteration for the GPT-5 family, which saw versions 5.1 through 5.6, and its integration into platforms like Apple Intelligence in iOS 26.
+The DeepSeek V4 Flash 0731 model has been released, representing a substantial advancement in capability, speed, and cost-effectiveness for AI-powered applications. This updated version is described as a &quot;whole tier up&quot; from its predecessors, proving highly capable for tasks like debugging, document analysis, and general software engineering. Its performance includes approximately 8,000 tokens/second prefill and 250 tokens/second on a single stream when run on 2x RTX Pro 6000 Blackwell GPUs, while its operational costs are remarkably low, with users reporting difficulty spending more than $5 per day even with extensive use. OpenCode Go temporarily offers double limits, effectively providing $140 of tokens for $10.
 
-telegram · zaihuapd · Aug 7, 00:46
+hackernews · tosh · Aug 7, 17:56 · [Discussion](https://news.ycombinator.com/item?id=49214008)
 
-**「Background」** AI agents are autonomous programs designed to perform tasks or achieve goals, often by interacting with their environment and other systems. As the use of these agents expands, a lack of standardized communication and integration methods can hinder their ability to work together across different platforms and vendors. The Agent Plugins standard seeks to address this by providing a common framework for packaging and discovering agent capabilities, similar to how plugins extend the functionality of traditional software applications.
+**「Background」** DeepSeek V4 Flash 0731 is a large language model \(LLM\) built on a 284B Mixture-of-Experts \(MoE\) architecture, featuring 13B active parameters and a 1M-token context window. It is specifically designed for coding, tool use, and agentic workflows, making it suitable for complex software development and data analysis tasks.
 
-**「Impact」** The introduction of the Agent Plugins open standard is expected to significantly improve interoperability among AI agents from various developers and platforms, potentially accelerating the growth and utility of the broader AI agent ecosystem for developers and end-users.
+**「Impact」** This release significantly lowers the barrier to entry for integrating advanced large language model capabilities into software development and data analysis workflows, making powerful AI assistance highly accessible and economically viable for a broad range of users.
 
-**Tags**: `#Artificial Intelligence`, `#Software Engineering`, `#Open Standards`, `#AI Agents`, `#Tech Industry`
+**「Community Discussion」** Community feedback largely praises the DeepSeek V4 Flash 0731, with users noting its &quot;good enough&quot; performance for almost all tasks and &quot;irrelevant&quot; costs, highlighting its speed and capability for debugging and document analysis. However, one user reported issues with the model entering infinite loops, talking to itself without executing tool calls, and exhibiting irrelevant topic shifts, contrasting with the generally positive experiences.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://lmstudio.ai/models/deepseek-v4-flash">DeepSeek V4 Flash - lmstudio.ai</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Artificial Intelligence`, `#Machine Learning`, `#Large Language Models`, `#Software Engineering`, `#Performance`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [AMD Acquires Taalas to Etch AI Models into Silicon for Enhanced Inference](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) ⭐️ 8.0/10
+### [Assembly Hall of Shame Project Details Slow and Problematic Instructions](https://github.com/xoreaxeaxeax/asm-hall-of-shame) ⭐️ 8.0/10
 
-AMD has acquired AI chip startup Taalas to significantly advance AI inference performance by directly etching machine learning models into silicon. This strategic move aims to boost efficiency and speed in the rapidly expanding AI market, representing a novel hardware-software co-design approach. The acquisition is intended to provide more optimized compute solutions for AI inference workloads.
+The GitHub project &quot;Assembly Hall of Shame&quot; compiles a list of assembly instructions notorious for their unexpectedly slow execution or problematic side effects. This resource offers deep insights into low-level system performance, helping to identify bottlenecks and understand potential security vulnerabilities. Authored by \`xoreaxeaxeax\`, the project details specific instruction behaviors that can impact system stability and security, such as those related to System Management Mode \(SMM\). It serves as a valuable reference for understanding the intricacies of hardware-level operations and their real-world implications.
 
-hackernews · itvision · Aug 6, 20:23 · [Discussion](https://news.ycombinator.com/item?id=49201970)
+hackernews · piotrgrabowski · Aug 7, 18:01 · [Discussion](https://news.ycombinator.com/item?id=49214098)
 
-**「Background」** AI inference refers to the process where a trained artificial intelligence model is used to make predictions or decisions based on new data. Traditionally, AI models run on general-purpose hardware like GPUs, but etching models directly into silicon, or hard-wiring them, involves embedding the model&\#x27;s architecture and weights into the physical chip design itself. This specialized approach aims to significantly boost performance and efficiency for specific AI models by optimizing the hardware for that particular workload.
+**「Background」** Assembly language consists of low-level instructions that directly control a computer&\#x27;s hardware. System Management Mode \(SMM\) is a special operating mode in x86 processors, typically used for power management, hardware control, or proprietary OEM functions, which runs at the highest privilege level, making it critical for system security.
 
-**「Impact」** This acquisition could lead to more efficient and faster AI inference capabilities on AMD hardware, potentially benefiting developers and users who deploy AI models requiring high performance and low latency.
+**「Impact」** This compilation directly benefits specialists in system programming, security research, and hardware development by providing concrete examples of performance pitfalls and security risks at the assembly level.
 
-**「Community Discussion」** Community members expressed both excitement about the potential for vastly accelerated AI capabilities in the future and concerns regarding the practicality of etching models into silicon given the rapid evolution and frequent updates of AI models. Some noted that Google is already pursuing similar strategies with TPUs, while others questioned the distinction between &quot;peak&quot; and &quot;reliable&quot; performance in current AI systems.
+**「Community Discussion」** Community members highlighted related projects by the same author, such as \`smiiiiiiiiiiiiiiii\` which exploits slow instructions to break SMI, and \`repsych\` which creates obfuscated control flow. There was also discussion regarding whether certain slow operations, like ACPI IO port writes, might involve traps to SMM handlers, potentially complicating the project&\#x27;s timing rules.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD buys chip startup that hardwires AI models into its silicon</a></li>
-<li><a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344">AMD acquires AI chip startup Taalas to boost inference ...</a></li>
+<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7027.html">AMD SMM Vulnerabilities</a></li>
+<li><a href="https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7028.html">AMD SMM Callout Vulnerability</a></li>
+<li><a href="https://www.sentinelone.com/labs/zen-and-the-art-of-smm-bug-hunting-finding-mitigating-and-detecting-uefi-vulnerabilities/">Zen and the Art of SMM Bug Hunting | Finding, Mitigating and ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Artificial Intelligence`, `#Hardware`, `#Machine Learning`, `#Computer Systems`, `#Semiconductors`
+**Tags**: `#Assembly Language`, `#Computer Systems`, `#Performance Optimization`, `#Security Research`, `#Hardware`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Mario Meets Pareto: Understanding Trade-offs in Software Engineering and Optimization](https://www.mayerowitz.io/blog/mario-meets-pareto) ⭐️ 8.0/10
+### [Oracle Bans AI-Generated Code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ⭐️ 8.0/10
 
-The article &quot;Mario Meets Pareto&quot; explores the concept of Pareto optimality, highlighting its critical role in understanding and navigating trade-offs within software engineering, system design, and optimization, particularly in AI/ML applications. It explains how the Pareto frontier helps identify optimal solutions when multiple objectives conflict, preventing suboptimal decisions. The concept is crucial for making informed choices in complex scenarios, such as balancing competing factors like security and user experience or optimizing multi-faceted systems.
+Oracle has implemented an interim policy that prohibits contributions of AI-generated code to the OpenJDK project. This decision stems from concerns regarding legal implications and code quality, initiating a broader discussion on the appropriate role of artificial intelligence in open-source software development. The policy is currently in an interim state, with a final version being drafted by Oracle&\#x27;s legal team.
 
-hackernews · theanonymousone · Aug 6, 11:24 · [Discussion](https://news.ycombinator.com/item?id=49195231)
+hackernews · delduca · Aug 7, 17:36 · [Discussion](https://news.ycombinator.com/item?id=49213754)
 
-**「Understanding Pareto Optimality」** Pareto efficiency, or Pareto optimality, describes a state where it&\#x27;s impossible to make one individual or criterion better off without making at least one other individual or criterion worse off. In multi-objective optimization, the Pareto frontier \(or Pareto front\) is the set of all such Pareto efficient solutions. This frontier represents the optimal trade-offs between competing objectives, where any solution not on the frontier is outperformed by at least one solution that is.
+**「Context」** OpenJDK is the open-source implementation of the Java Platform, Standard Edition, a widely used programming language and platform, with Oracle serving as a significant steward and contributor. Generative AI refers to artificial intelligence tools capable of producing content, including source code, based on learned patterns from existing data. The integration of such tools into software development workflows has raised questions regarding intellectual property, code quality, and project governance.
 
-**「Impact」** Understanding Pareto optimality directly enables developers and engineers to make more informed decisions by identifying the true limits of trade-offs in multi-objective problems.
+**「Impact」** This policy represents a significant development for open-source governance and intellectual property considerations in AI, potentially setting a precedent for how other major projects address AI-generated contributions.
 
-**「Community Discussion」** Community members underscore the practical importance of Pareto optimality for developers, especially in challenging assertions about unavoidable trade-offs like security versus user experience. Users shared diverse real-world applications, including optimizing item builds in games like WoW Classic and selecting characters for Mario Kart speedruns.
+**「Community Discussion」** Community members largely acknowledged Oracle&\#x27;s legal and quality concerns, particularly given past copyright issues with Java, and the potential burden careless AI contributions could place on human reviewers. However, some commenters noted the irony of Oracle&\#x27;s stance given its own investment in AI, and questioned the enforceability or ultimate effectiveness of such a policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_front">Pareto front - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto efficiency - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/p/pareto-efficiency.asp">Understanding Pareto Efficiency: Theory and Production Possibilities</a></li>
+<li><a href="https://openjdk.org/legal/ai">OpenJDK Interim Policy on Generative AI</a></li>
+<li><a href="https://www.infoq.com/news/2026/06/oracle-genai-policies/">Oracle&#x27;s OpenJDK Bans Generative AI Contributions While Oracle&#x27;s GraalVM Allows Them - InfoQ</a></li>
+<li><a href="https://www.techzine.eu/news/devops/143395/oracle-bans-ai-generated-contributions-to-openjdk/">Oracle bans AI-generated contributions to OpenJDK - Techzine Global</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Software Engineering`, `#Optimization`, `#Decision Making`, `#Multi-objective Optimization`
+**Tags**: `#OpenJDK`, `#AI Policy`, `#Open Source`, `#Software Engineering`, `#Intellectual Property`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [Taste Is All That&\#x27;s Left](https://notashelf.dev/posts/taste-is-all-thats-left) ⭐️ 8.0/10
+### [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) ⭐️ 8.0/10
 
-The article and its discussion highlight the enduring importance of human intuition and &\#x27;taste&\#x27; in software development, contrasting it with the current capabilities of AI-generated code. While Large Language Models \(LLMs\) can address immediate coding problems, they reportedly struggle to produce coherent, high-quality systems over extended periods, often lacking &\#x27;signal&\#x27; in their output. This suggests that the nuanced judgment developed by experienced human developers through years of practice and mistakes remains crucial for robust software design.
+A project named pgrust has demonstrated how to significantly accelerate PostgreSQL for analytical workloads, achieving up to a 300x speedup. This substantial performance improvement is attributed to advanced query engine optimizations, including batching, operator fusion, and SIMD instructions. The project also prioritizes correctness through formal verification and differential fuzz testing, proving logical equivalence for over 1000 user-facing functions compared to standard PostgreSQL.
 
-hackernews · tsak · Aug 6, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49199346)
+hackernews · poly2it · Aug 7, 11:00 · [Discussion](https://news.ycombinator.com/item?id=49208535)
 
-**「What is &\#x27;Taste&\#x27; in Software Development?」** In software development, &\#x27;taste&\#x27; refers to a developer&\#x27;s intuitive, often wordless judgment about the quality, design, and coherence of code, described as a &\#x27;compressed, wordless verdict&\#x27; or an immediate &\#x27;no, again&\#x27; response without explicit justification. This human capacity for nuanced judgment is increasingly discussed in contrast to the current capabilities of AI-generated code, which, despite solving immediate problems, often struggles to produce systems with the same level of internal quality or &\#x27;signal&\#x27; over larger codebases.
+**「Background」** pgrust is an experimental open-source project that rewrites the PostgreSQL database engine in Rust, aiming for significant performance improvements and correctness. Key optimizations include batching, which processes data in chunks to reduce function call overhead, operator fusion, which eliminates data copying between operations, and SIMD \(Single Instruction, Multiple Data\) instructions for parallel data processing. Adaptive planning is a query optimization technique that dynamically adjusts the execution plan based on runtime conditions, a feature often sought in database systems.
 
-**「Impact」** The discussion implies that relying heavily on AI agents for software development may lead to systems that function but lack internal quality, design intuition, or long-term coherence, potentially shifting the criteria for what constitutes &\#x27;good&\#x27; software.
+**「Impact」** This project concretely demonstrates the viability and substantial performance benefits of advanced query engine optimizations like adaptive planning, batching, operator fusion, and SIMD within a PostgreSQL-compatible environment. It could serve as a proof-of-concept influencing future PostgreSQL core development or provide a high-performance alternative for specific analytical use cases.
 
-**「Community Discussion」** Community members largely agree on the critical role of human &\#x27;taste&\#x27; or &\#x27;judgment&\#x27; in software engineering, noting that LLMs, despite solving immediate issues, fail to produce high-quality, coherent systems over time due to a lack of &\#x27;signal&\#x27; in their output. While some prefer the term &\#x27;judgment&\#x27; over &\#x27;taste,&\#x27; others ponder whether internal quality truly matters if the software simply functions, referencing broader philosophical definitions of taste as governing all free human responses.
+**「Community Discussion」** The author emphasized their primary focus on correctness, using formal verification and differential fuzz testing to ensure logical equivalence with PostgreSQL for over 1000 functions. While some community members expressed skepticism about the project&\#x27;s long-term adoption due to trust concerns outside the official PostgreSQL team, others enthusiastically welcomed the demonstration of adaptive planning and batch mode execution, noting its proven effectiveness in other production databases like Microsoft SQL Server. There was also interest in more detailed architectural insights into the IO and thread schedulers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://notashelf.dev/posts/taste-is-all-thats-left">Taste Is All That &#x27; s Left | Blog</a></li>
+<li><a href="https://pgrust.com/">pgrust — postgres, rewritten in rust</a></li>
+<li><a href="https://github.com/malisper/pgrust">GitHub - malisper/ pgrust : Postgres rewritten in Rust , now faster than...</a></li>
+<li><a href="https://dev.to/terminalchai/pgrust-the-open-source-project-rewriting-postgresql-in-rust-4860">pgrust : The Open-Source Project Rewriting... - DEV Community</a></li>
+<li><a href="https://www.databasejournal.com/ms-sql/adaptive-query-processing-in-sql-server/">Adaptive Query Processing in SQL Server | Database Journal</a></li>
+<li><a href="https://www.academia.edu/65395688/A_Survey_on_Query_Processing_and_Optimization_in_Relational_Database_Management_System">(PDF) A Survey on Query Processing and Optimization in Relational...</a></li>
+<li><a href="https://www.facebook.com/bot.hackernews/videos/postgres-just-got-300x-faster-with-sql-batching-simd-tricks-postgres-database-ha/2247138442792740/">Postgres just got 300x faster with #SQL batching &amp; #SIMD ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Software Engineering`, `#Artificial Intelligence`, `#LLMs`, `#Software Development Philosophy`, `#Human Expertise`
+**Tags**: `#Database Optimization`, `#PostgreSQL`, `#Query Engines`, `#Performance Engineering`, `#Open Source`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [ProvenMetal Accelerates US Circuit Board Manufacturing to Days](https://provenmetal.com/) ⭐️ 8.0/10
+### [Kitesurf: An Agent-First Browser Leveraging V8 Isolates for Web Automation](https://blog.cloudflare.com/kitesurf/) ⭐️ 8.0/10
 
-ProvenMetal launched to provide assembled circuit boards domestically in days, addressing the significant decline in US PCB manufacturing from 30% global share in 2000 to 4% currently. The company streamlines the process by automating front-of-house operations, including quoting, Design for Manufacture \(DFM\) review, and component procurement. By integrating with design tools like KiCAD and Altium, ProvenMetal can pre-order long lead time parts and suggest alternatives, thereby eliminating a major bottleneck. This approach has already resulted in $70,000 across 11 orders in its first six weeks of operation.
+Kitesurf is a new agent-first browser developed by Cloudflare, built upon the open-source Blitz engine, which leverages V8 isolates for efficient and secure web automation. This architecture is designed to provide a robust platform for web scraping, testing, and AI agents, addressing the growing demand for cloud-native browser environments. The project intends to open source its patches and contribute them upstream to the Blitz engine.
 
-hackernews · willcarkner · Aug 6, 15:59 · [Discussion](https://news.ycombinator.com/item?id=49198464)
+hackernews · m3h · Aug 7, 10:42 · [Discussion](https://news.ycombinator.com/item?id=49208393)
 
-**「Background」** The United States&\#x27; share of global Printed Circuit Board \(PCB\) production has drastically fallen over the past two decades, leading to a reliance on overseas manufacturers, primarily in China. This shift has resulted in lengthy lead times for hardware developers, who typically face multi-day quoting and DFM reviews, followed by weeks for component sourcing, assembly, and testing.
+**「Background」** Kitesurf is a new browser developed by Cloudflare, designed as an &quot;agent-first&quot; solution for web automation, scraping, and AI agents rather than human interaction. It operates on Cloudflare Workers, a serverless platform that allows code execution across Cloudflare&\#x27;s global network, and utilizes V8 isolates for secure, lightweight, and efficient execution environments.
 
-**「Impact」** Hardware developers can significantly accelerate their prototyping and product iteration cycles by obtaining domestically manufactured and assembled circuit boards in days, rather than the traditional weeks-long process. This also contributes to strengthening the domestic technology supply chain.
+**「Impact」** Kitesurf offers developers a highly efficient and secure platform for running web automation tasks and AI agents directly within Cloudflare&\#x27;s network, potentially leading to significant cost savings for Cloudflare by localizing traffic. However, questions remain regarding how Cloudflare&\#x27;s own anti-bot mechanisms will interact with these browser instances.
 
-**「Community Discussion」** Community members expressed concerns regarding ProvenMetal&\#x27;s pricing competitiveness against &quot;insanely cheap&quot; Chinese manufacturers and whether component sourcing, rather than assembly, remains the primary bottleneck for lead times. However, there was also support for increasing US manufacturing options, particularly for applications requiring faster turnaround than the typical 7-day Chinese delivery or those with ITAR requirements, with one user suggesting a line of credit as a valuable differentiator.
+**「Community Discussion」** Community members noted that Kitesurf is built on the open-source Blitz engine, with plans to upstream its patches. Concerns were raised about potential conflicts of interest for Cloudflare, which provides both CDN/DDoS protection and now agent services, and whether Kitesurf instances will bypass Cloudflare&\#x27;s anti-bot measures. Some also sought practical examples of browser agent use cases.
 
-**Tags**: `#Hardware Manufacturing`, `#Supply Chain`, `#Prototyping`, `#Computer Systems`, `#Technology Industry`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blog.cloudflare.com/kitesurf/">Introducing Kitesurf: The agent-first browser that runs in V8 ...</a></li>
+<li><a href="https://developers.cloudflare.com/browser-run/kitesurf/">Kitesurf · Cloudflare Browser Run docs</a></li>
+<li><a href="https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/">Cloudflare launches Kitesurf, a browser built for AI agents</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Software Engineering`, `#Web Automation`, `#Browser Engines`, `#Cloud Computing`, `#Artificial Intelligence`
 
 ---
 
 <a id="item-tech-news-8"></a>
-### [Datasette 1.0a38 Fixes Critical SQL Injection Vulnerability](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) ⭐️ 8.0/10
+### [A Year-Long Battle Against 99% Bot Traffic on a 1.5 Million-Page Website](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) ⭐️ 8.0/10
 
-Datasette 1.0a38 has been released, addressing a critical SQL injection vulnerability that affected instances serving a mixture of public and private tables within the same database, configured with Datasette&\#x27;s permissions system. This flaw allowed users with access to any public table to execute SQL injection attacks, granting them read-only access to data in private tables, even when the \`execute-sql\` permission was disabled. Administrators with this specific configuration are advised to update to 1.0a38 or 0.65.3, which also includes the fix, and consider disabling the \`execute-sql\` permission on affected databases. The author notes that this particular configuration is likely rare.
+A website owner detailed a year-long struggle with 99% bot traffic on a 1.5 million-page site, leading to significant infrastructure cost challenges, including a 500% spike from a typical $90 monthly bill. The article highlights the operational difficulties and financial strain caused by pervasive scraping, prompting broader discussion on effective bot mitigation strategies and the ethical implications for the open web. The author also acknowledged the irony of being a scraper complaining about other scrapers.
 
-rss · Simon Willison · Aug 6, 18:24
+hackernews · petercooper · Aug 7, 14:51 · [Discussion](https://news.ycombinator.com/item?id=49211386)
 
-**「Background」** Datasette is an open-source tool for exploring and publishing data, often from SQLite databases. It includes a permissions system designed to manage access to individual tables, allowing for a mix of public and private data within the same instance.
+**「Background」** Bots and scrapers are automated programs that interact with websites, often mimicking human users to extract data or perform other actions. While some bots, like search engine crawlers, are legitimate and beneficial, others can consume significant server resources, inflate traffic statistics, and illegally copy content, leading to increased infrastructure costs and potential intellectual property issues for website owners.
 
-**「Impact」** Administrators operating Datasette instances with both public and private tables in the same database were vulnerable to unauthorized read-only data exposure from private tables. Updating to Datasette 1.0a38 or 0.65.3 is crucial to prevent potential data breaches in such configurations.
+**「Impact」** Website operators, particularly those with large content sites, face substantial infrastructure cost increases and operational burdens due to overwhelming bot traffic, as evidenced by a reported 500% cost spike.
 
-**Tags**: `#Security`, `#SQL Injection`, `#Datasette`, `#Open Source`, `#Data Management`
+**「Community Discussion」** Community members expressed concerns that relying on large companies like Cloudflare for bot mitigation centralizes control over web access, potentially undermining the &quot;open web.&quot; Practical solutions like Anubis, which uses proof-of-work for bot detection, were suggested, alongside advice to optimize infrastructure by considering static site alternatives to reduce costs. Some also shared experiences with specific search bots consuming vast resources without providing reciprocal value.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/">99 % of My Website Traffic Is Bots | PatronView</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Web Security`, `#Bot Management`, `#Web Infrastructure`, `#Data Scraping`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Round-Trip Consistency: Bidirectional Diffusion Models Predict Rollout Errors](https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/) ⭐️ 8.0/10
+### [New Mexico Court Orders Meta to Pay for Children&\#x27;s Mental Health Harms](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) ⭐️ 8.0/10
 
-New research introduces a novel method for bidirectional diffusion models to self-supervise and predict their own rollout errors, addressing the challenge of error accumulation in long rollouts of autoregressive models like latent diffusion or flow models. A single conditional latent diffusion model is trained with a direction flag to step a dynamical system forward or backward in time. The core innovation is using the round-trip discrepancy—the difference between starting and ending points after a forward-then-backward sequence—as a self-supervised proxy for unobservable rollout error, requiring only one extra rollout. This approach eliminates the need for ground truth, additional data, ensembles, held-out data, or governing equations, and is shown to outperform two specialist models in both directions.
+A New Mexico court has ordered Meta to pay $567 million into a fund to address harms to children&\#x27;s mental health, though some reports indicate a figure of $942 million. This ruling, issued around August 6, 2026, also mandates Meta to implement changes for underage users, following allegations that the company&\#x27;s platforms contributed to mental health issues among youth. This decision represents a significant legal and regulatory development for the technology industry regarding social media&\#x27;s impact on children.
 
-reddit · r/MachineLearning · /u/Clean-Hovercraft5825 · Aug 6, 12:10
+hackernews · boplicity · Aug 7, 00:06 · [Discussion](https://news.ycombinator.com/item?id=49204352)
 
-**「Background」** Autoregressive models, such as latent diffusion or flow models, are commonly used for generating sequences like CELEBV-HQ videos or turbulent plasma fields. A significant challenge with these models is the accumulation of errors over long generative rollouts, which becomes problematic as ground truth data is typically unavailable during deployment to measure against. Diffusion models are a class of generative models that learn to reverse a diffusion process to generate data.
+**「Background」** This legal action is part of a growing trend where social media companies face scrutiny and lawsuits over the design and addictive nature of their platforms, particularly concerning their effects on the mental well-being of young users. Specifically, the New Mexico court found Meta in violation of the state&\#x27;s public-nuisance law, NMSA 1978 § 30-8-1, which prohibits knowingly creating or maintaining anything injurious to public health, safety, morals, or welfare.
 
-**「Impact」** This self-supervised error estimation significantly enhances the reliability and practical utility of diffusion models in real-world applications by providing a crucial test-time error signal without external supervision.
+**「Impact」** This ruling sets a notable precedent for regulatory oversight and could influence future product design and ethical considerations within the technology industry, particularly for social media platforms targeting youth.
 
-**Tags**: `#Machine Learning`, `#Artificial Intelligence`, `#Diffusion Models`, `#Self-Supervised Learning`, `#Generative AI`
+**「Community Discussion」** Community discussion noted the discrepancy in the reported judgment amount, with some dismissing it as a &quot;slap on the wrist&quot; relative to Meta&\#x27;s global revenue, while others argued it is &quot;enormous&quot; given New Mexico&\#x27;s small population. Commenters also highlighted the specific violation of New Mexico&\#x27;s public-nuisance law and shared personal experiences regarding the addictive nature of platforms like Instagram Reels and TikTok.
+
+**Tags**: `#Technology Industry`, `#Legal &amp; Regulation`, `#Social Media`, `#Ethics of Technology`, `#Public Policy`
 
 ---
 
-<a id="item-tech-news-10"></a>
-### [Synthesizing LLM Traces into Deterministic ML/NLP Pipelines](https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/) ⭐️ 8.0/10
+## Financial News
 
-An investigation is underway to replace recurring Large Language Model \(LLM\) workloads with automatically constructed, deterministic pipelines of traditional machine learning and natural language processing \(ML/NLP\) operators. This approach aims to enhance efficiency, reliability, and cost-effectiveness for well-defined, repetitive tasks, such as extracting structured data like customer-supplier relationships from annual reports. The proposed system would use a calibrated uncertainty gate to process inputs within its validated domain via the pipeline and escalate complex or out-of-distribution cases back to the original frontier LLM. The methodology involves clustering LLM traces into workload families, inducing typed contracts, and generating candidate Directed Acyclic Graphs \(DAGs\) from a taxonomy of 41 atomic task types, treating the problem as a form of program synthesis and formal verification.
+<a id="item-finance-news-1"></a>
+### [U.S. July Jobs Miss Reduces September Fed Rate Hike Odds](https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html) ⭐️ 9.0/10
 
-reddit · r/MachineLearning · /u/Ok\_Philosophy\_4031 · Aug 6, 17:24
+The U.S. economy unexpectedly shed jobs in July, leading investors to assign a 65% probability on Kalshi and a 60% probability on CME&\#x27;s FedWatch tool that the Federal Reserve will hold interest rates steady at its September meeting, up from approximately 50% and 45% respectively before the report.
 
-**「Background」** Large Language Models \(LLMs\) are versatile for complex natural language tasks but can be resource-intensive and non-deterministic for repetitive operations. In contrast, traditional machine learning and natural language processing models offer deterministic, efficient solutions for specific, well-defined tasks. This investigation seeks to combine the strengths of both by offloading predictable LLM tasks to specialized pipelines.
+rss · CNBC Finance · Aug 7, 13:34
 
-**「Impact」** For organizations with high-volume, repetitive LLM-based data extraction or processing tasks, this synthesis approach could significantly reduce operational costs and improve output consistency by leveraging more efficient and deterministic traditional ML/NLP models.
+**「Background」** The Federal Reserve \(the Fed\) is the U.S. central bank that sets interest rates to manage the economy; at its July meeting, it held rates steady, though some members wanted a hike due to concerns like higher energy prices from the U.S.-Iran war.
 
-**Tags**: `#Machine Learning`, `#Natural Language Processing`, `#LLM Optimization`, `#AI Systems`, `#Software Engineering`
+**「Impact」** The weaker-than-expected jobs report caused Treasury yields to fall and stock prices to rise, as investors adjusted their expectations for future interest rate policy.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war">Economic impact of the 2026 Iran war - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
+<li><a href="https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher">US faces rising costs with Iran war driving energy prices, inflation higher | Inflation News | Al Jazeera</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Federal Reserve`, `#Interest Rates`, `#Jobs Report`, `#Monetary Policy`, `#Market Expectations`
 
 ---
